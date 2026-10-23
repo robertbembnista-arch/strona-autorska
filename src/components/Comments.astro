@@ -1,0 +1,27 @@
+---
+// Komentarze przez Cusdis: czytelnik podaje tylko imię, bez zakładania konta.
+import { SITE } from '../config';
+
+interface Props {
+  id: string;
+  title: string;
+}
+const { id, title } = Astro.props;
+const url = new URL(Astro.url.pathname, SITE.url).href;
+---
+{SITE.cusdisAppId && (
+  <section class="comments" aria-label="Komentarze">
+    <h2>Komentarze</h2>
+    <div
+      id="cusdis_thread"
+      data-host="https://cusdis.com"
+      data-app-id={SITE.cusdisAppId}
+      data-page-id={id}
+      data-page-url={url}
+      data-page-title={title}
+      data-theme="auto"
+    ></div>
+    <script is:inline async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script is:inline defer src="https://cusdis.com/js/widget/lang/pl.js"></script>
+  </section>
+)}

@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../config';
+---
+<Base title="Kontakt" description="Kontakt z Robertem Bembnistą: wydawnictwa, szkolenia, coaching.">
+  <div class="narrow">
+    <h1>Kontakt</h1>
+    <p class="lead">Wydawnictwa, redakcje, szkolenia i coaching.</p>
+    {SITE.email ? <p>E-mail: <a href={`mailto:${SITE.email}`}>{SITE.email}</a></p> : <div class="notice">Adres e-mail do uzupełnienia.</div>}
+    {SITE.linkedin && <p>LinkedIn: <a href={SITE.linkedin}>profil</a></p>}
+  </div>
+</Base>

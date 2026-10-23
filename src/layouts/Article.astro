@@ -1,0 +1,27 @@
+---
+import Base from './Base.astro';
+import Comments from '../components/Comments.astro';
+
+interface Props {
+  id: string;
+  title: string;
+  description: string;
+  date?: Date;
+  tags?: string[];
+  section: { href: string; label: string };
+}
+const { id, title, description, date, tags = [], section } = Astro.props;
+const fmt = new Intl.DateTimeFormat('pl-PL', { dateStyle: 'long' });
+---
+<Base title={title} description={description} type="article">
+  <article class="narrow">
+    <p class="meta"><a href={section.href}>{section.label}</a>{date && <> · <time datetime={date.toISOString()}>{fmt.format(date)}</time></>}</p>
+    <h1>{title}</h1>
+    <p class="lead">{description}</p>
+    {tags.length > 0 && <ul class="tags">{tags.map((t) => <li>{t}</li>)}</ul>}
+    <div class="prose">
+      <slot />
+    </div>
+    <Comments id={id} title={title} />
+  </article>
+</Base>

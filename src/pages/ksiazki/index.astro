@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const books = (await getCollection('ksiazki')).sort((a, b) => a.data.order - b.data.order);
+---
+<Base title="Książki" description="Książki Roberta Bembnisty: opisy i wybrane fragmenty.">
+  <div class="wrap">
+    <h1>Książki</h1>
+    <p class="lead">Opisy i wybrane fragmenty. Wydawców zapraszam do <a href="/kontakt/">kontaktu</a>.</p>
+    <ul class="cards">
+      {books.map((b) => (
+        <li class="card">
+          <h3><a href={`/ksiazki/${b.id}/`}>{b.data.title}</a></h3>
+          <p>{b.data.description}</p>
+          <p class="meta">{b.data.status}</p>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

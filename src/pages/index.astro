@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import TextList from '../components/TextList.astro';
+import { SITE } from '../config';
+
+const eseje = (await getCollection('eseje', ({ data }) => !data.draft)).map((e) => ({ ...e, section: 'eseje' }));
+const poradniki = (await getCollection('poradniki', ({ data }) => !data.draft)).map((e) => ({ ...e, section: 'poradniki' }));
+const latest = [...eseje, ...poradniki]
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3)
+  .map((e) => ({ href: `/${e.section}/${e.id}/`, title: e.data.title, description: e.data.description }));
+const [book] = (await getCollection('ksiazki')).sort((a, b) => a.data.order - b.data.order);
+---
+<Base>
+  <div class="wrap">
+    <section class="hero">
+      <h1>{SITE.name}</h1>
+      <p class="lead">{SITE.tagline}.</p>
+      <p><a class="button" href="/szkolenia/">Szkolenia i coaching</a></p>
+    </section>
+
+    <h2>Najnowsze teksty</h2>
+    <TextList items={latest} />
+
+    {book && (
+      <>
+        <h2>Książka</h2>
+        <TextList items={[{ href: `/ksiazki/${book.id}/`, title: book.data.title, description: book.data.description }]} />
+      </>
+    )}
+  </div>
+</Base>
