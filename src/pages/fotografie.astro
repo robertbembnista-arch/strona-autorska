@@ -2,16 +2,16 @@
 import Base from '../layouts/Base.astro';
 
 const photos = [
-  { file: 'maroko-wydmy', place: 'Maroko', alt: 'Wydmy pod niebem z pierzastymi chmurami, na piasku ślady kół' },
-  { file: 'cypr-latarnia', place: 'Cypr', alt: 'Betonowa ścieżka prowadząca do białej latarni morskiej pod zachmurzonym niebem' },
-  { file: 'cypr-brzeg', place: 'Cypr', alt: 'Skalisty brzeg morza, na kamieniach cienie dwóch osób' },
-  { file: 'cypr-dzbany', place: 'Cypr', alt: 'Dwa duże gliniane dzbany leżące na dziedzińcu między kamiennymi domami' },
+  { file: 'maroko-wydmy', alt: 'Wydmy pod niebem z pierzastymi chmurami, na piasku ślady kół' },
+  { file: 'cypr-latarnia', alt: 'Betonowa ścieżka prowadząca do białej latarni morskiej pod zachmurzonym niebem' },
+  { file: 'cypr-brzeg', alt: 'Skalisty brzeg morza, na kamieniach cienie dwóch osób' },
+  { file: 'cypr-dzbany', alt: 'Dwa duże gliniane dzbany leżące na dziedzińcu między kamiennymi domami' },
 ];
 ---
-<Base title="Fotografie" description="Czarno-białe fotografie Roberta Bembnisty z podróży.">
+<Base title="Fotografie" description="Czarno-białe fotografie Roberta Bembnisty.">
   <div class="wrap">
     <h1>Fotografie</h1>
-    <p class="lead">Czarno-białe zdjęcia z podróży.</p>
+    <p class="lead">Czarno-białe zdjęcia.</p>
     <div class="gallery">
       {photos.map((p) => (
         <figure>
@@ -27,7 +27,6 @@ const photos = [
               height="800"
             />
           </a>
-          <figcaption>{p.place}</figcaption>
         </figure>
       ))}
     </div>
