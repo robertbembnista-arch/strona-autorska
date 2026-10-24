@@ -1,4 +1,5 @@
 ---
+import SectionImage from '../../components/SectionImage.astro';
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 
@@ -8,6 +9,7 @@ const books = (await getCollection('ksiazki')).sort((a, b) => a.data.order - b.d
   <div class="wrap">
     <h1>Książki</h1>
     <p class="lead">Opisy i wybrane fragmenty. Wydawców zapraszam do <a href="/kontakt/">kontaktu</a>.</p>
+    <SectionImage file="cypr-latarnia" alt="Betonowa ścieżka prowadząca do białej latarni morskiej pod zachmurzonym niebem" />
     <ul class="cards">
       {books.map((b) => (
         <li class="card">

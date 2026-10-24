@@ -1,0 +1,21 @@
+---
+// Zdjęcie ilustrujące dział (z galerii Fotografie).
+interface Props {
+  file: string;
+  alt: string;
+  position?: string;
+}
+const { file, alt, position = 'center' } = Astro.props;
+---
+<figure class="section-image">
+  <img
+    src={`/fotografie/${file}-1200.webp`}
+    srcset={`/fotografie/${file}-1200.webp 1200w, /fotografie/${file}-2400.webp 2400w`}
+    sizes="(min-width: 64rem) 62rem, 100vw"
+    alt={alt}
+    decoding="async"
+    width="1200"
+    height="514"
+    style={`object-position: ${position}`}
+  />
+</figure>

@@ -140,3 +140,8 @@ h1, .hero h1 { font-weight: 900; line-height: 1.05; }
 .gallery figure { margin: 0; }
 .gallery img { display: block; width: 100%; height: auto; background: var(--line); }
 .gallery figcaption { margin-top: 0.6rem; font-family: var(--mono); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+
+/* Zdjęcie na górze działu */
+.section-image { margin: 1.5rem 0 2.5rem; }
+.section-image img { display: block; width: 100%; aspect-ratio: 21 / 9; object-fit: cover; background: var(--line); }
+@media (max-width: 40rem) { .section-image img { aspect-ratio: 3 / 2; } }
