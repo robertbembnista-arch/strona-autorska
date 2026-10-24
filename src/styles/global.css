@@ -6,7 +6,9 @@
   --accent: #8a3b2e;
   --line: #e4ded3;
   --serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
-  --sans: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --sans: 'Archivo', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --display: 'Archivo', 'Arial Black', Impact, sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
   --measure: 40rem;
 }
 @media (prefers-color-scheme: dark) {
@@ -111,3 +113,24 @@ h2 { font-size: 1.5rem; margin: 2.5rem 0 0.75rem; }
 .toc h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
 .toc ol { margin: 0; padding-left: 1.4rem; }
 .toc li { margin-bottom: 0.2rem; }
+
+/* Typografia w stylu magazynu: szerokie, ciężkie nagłówki, szeryfowy tekst, etykiety w mono */
+h1, h2, h3, .brand, .card h3 {
+  font-family: var(--display);
+  font-stretch: 125%;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+h1, .hero h1 { font-weight: 900; line-height: 1.05; }
+.brand { font-size: 1.15rem; text-transform: uppercase; letter-spacing: 0.02em; }
+.nav, .meta, .tags li, .button, .toc h2, .site-footer, .callout strong:first-child {
+  font-family: var(--mono);
+}
+.nav, .meta, .tags li, .button {
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.78rem;
+}
+.lead { font-family: var(--serif); }
+.card p { font-family: var(--serif); font-size: 1rem; }
+.prose .footnotes h2, .toc h2 { font-stretch: 100%; }
