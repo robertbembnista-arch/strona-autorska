@@ -7,7 +7,7 @@ export const SITE = {
   url: 'https://robertbembnista.pl',
   lang: 'pl',
   // Do uzupełnienia przez Roberta:
-  email: '',
+  email: 'kontakt@robertbembnista.pl',
   linkedin: '',
   // Identyfikator aplikacji Cusdis (komentarze). Pusty = komentarze wyłączone.
   cusdisAppId: '',

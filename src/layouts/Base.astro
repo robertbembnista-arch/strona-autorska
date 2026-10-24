@@ -57,7 +57,7 @@ const path = Astro.url.pathname;
         <span>© {new Date().getFullYear()} {SITE.name}</span>
         <span>
           {SITE.linkedin && <a href={SITE.linkedin}>LinkedIn</a>}
-          {SITE.email && <> · <a href={`mailto:${SITE.email}`}>{SITE.email}</a></>}
+          {SITE.email && <>{SITE.linkedin && ' · '}<a href={`mailto:${SITE.email}`}>{SITE.email}</a></>}
         </span>
       </div>
     </footer>
