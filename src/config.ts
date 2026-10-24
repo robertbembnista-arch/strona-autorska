@@ -17,8 +17,8 @@ export const NAV = [
   { href: '/ksiazki/', label: 'Książki' },
   { href: '/eseje/', label: 'Eseje' },
   { href: '/poradniki/', label: 'Poradniki' },
-  { href: '/fotografie/', label: 'Fotografie' },
-  { href: '/szkolenia/', label: 'Szkolenia i coaching' },
+  { href: '/szkolenia/', label: 'Szkolenia' },
+  { href: '/coaching/', label: 'Coaching' },
   { href: '/o-mnie/', label: 'O mnie' },
   { href: '/kontakt/', label: 'Kontakt' },
 ];

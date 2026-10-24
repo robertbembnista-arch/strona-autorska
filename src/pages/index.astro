@@ -17,7 +17,7 @@ const [book] = (await getCollection('ksiazki')).sort((a, b) => a.data.order - b.
     <section class="hero">
       <h1>{SITE.name}</h1>
       <p class="lead">{SITE.tagline}.</p>
-      <p><a class="button" href="/szkolenia/">Szkolenia i coaching</a></p>
+      <p class="buttons"><a class="button" href="/szkolenia/">Szkolenia</a> <a class="button" href="/coaching/">Coaching</a></p>
     </section>
 
     <h2>Najnowsze teksty</h2>
