@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+
+const photos = [
+  { file: 'maroko-wydmy', place: 'Maroko', alt: 'Wydmy pod niebem z pierzastymi chmurami, na piasku ślady kół' },
+  { file: 'cypr-latarnia', place: 'Cypr', alt: 'Betonowa ścieżka prowadząca do białej latarni morskiej pod zachmurzonym niebem' },
+  { file: 'cypr-brzeg', place: 'Cypr', alt: 'Skalisty brzeg morza, na kamieniach cienie dwóch osób' },
+  { file: 'cypr-dzbany', place: 'Cypr', alt: 'Dwa duże gliniane dzbany leżące na dziedzińcu między kamiennymi domami' },
+];
+---
+<Base title="Fotografie" description="Czarno-białe fotografie Roberta Bembnisty z podróży.">
+  <div class="wrap">
+    <h1>Fotografie</h1>
+    <p class="lead">Czarno-białe zdjęcia z podróży.</p>
+    <div class="gallery">
+      {photos.map((p) => (
+        <figure>
+          <a href={`/fotografie/${p.file}-2400.webp`}>
+            <img
+              src={`/fotografie/${p.file}-1200.webp`}
+              srcset={`/fotografie/${p.file}-1200.webp 1200w, /fotografie/${p.file}-2400.webp 2400w`}
+              sizes="(min-width: 64rem) 62rem, 100vw"
+              alt={p.alt}
+              loading="lazy"
+              decoding="async"
+              width="1200"
+              height="800"
+            />
+          </a>
+          <figcaption>{p.place}</figcaption>
+        </figure>
+      ))}
+    </div>
+  </div>
+</Base>

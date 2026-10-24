@@ -134,3 +134,9 @@ h1, .hero h1 { font-weight: 900; line-height: 1.05; }
 .lead { font-family: var(--serif); }
 .card p { font-family: var(--serif); font-size: 1rem; }
 .prose .footnotes h2, .toc h2 { font-stretch: 100%; }
+
+/* Fotografie */
+.gallery { display: grid; gap: 2.5rem; margin-top: 2rem; }
+.gallery figure { margin: 0; }
+.gallery img { display: block; width: 100%; height: auto; background: var(--line); }
+.gallery figcaption { margin-top: 0.6rem; font-family: var(--mono); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
