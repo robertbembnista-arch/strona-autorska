@@ -1,10 +1,13 @@
 ---
 import Base from '../layouts/Base.astro';
+
+// Link do kalendarza rezerwacji konsultacji wstępnej. Pusty = przycisk prowadzi do strony Kontakt.
+const KALENDARZ = '';
 ---
-<Base title="Szkolenia i coaching" description="Warsztaty, szkolenia i coaching: dla osób w momentach przejścia oraz dla menedżerów i organizacji.">
+<Base title="Szkolenia i coaching" description="Warsztaty dla osób w momentach przejścia oraz coaching zmiany, kariery i biznesowy.">
   <div class="narrow">
     <h1>Szkolenia i coaching</h1>
-    <p class="lead">Warsztaty dla osób w momentach przejścia oraz szkolenia i coaching dla menedżerów, kierowników zespołów i organizacji.</p>
+    <p class="lead">Warsztaty dla osób w momentach przejścia oraz coaching indywidualny, kariery i biznesowy.</p>
     <h2>Warsztaty</h2>
     <ul class="cards">
       <li class="card">
@@ -12,12 +15,34 @@ import Base from '../layouts/Base.astro';
         <p>Dwudniowy warsztat wyjazdowy dla osób, które stoją przed ważnym przejściem w życiu albo noszą w sobie niedomknięte zakończenie. Do 10 osób.</p>
       </li>
     </ul>
-    <h2>Szkolenia i coaching dla menedżerów</h2>
-    <div class="notice">Opis oferty w przygotowaniu.</div>
-    <h2>Dla kogo</h2>
-    <p>Do uzupełnienia.</p>
-    <h2>Jak wygląda współpraca</h2>
-    <p>Do uzupełnienia.</p>
-    <p><a class="button" href="/kontakt/">Porozmawiajmy</a></p>
+
+    <h2>Coaching</h2>
+    <h3>Z czym mogę Ci pomóc?</h3>
+    <ul>
+      <li>Chcesz zmienić niesłużące Ci nawyki i konstruktywnie wyjść ze strefy komfortu?</li>
+      <li>Stoisz przed ważną zmianą życiową lub zawodową (przejście, kryzys) i potrzebujesz ustrukturyzować ten proces?</li>
+      <li>Czujesz, że utknąłeś w miejscu i chcesz odblokować swój potencjał, lepiej rozumiejąc własne decyzje?</li>
+    </ul>
+
+    <h3>Kluczowe moduły coachingowe</h3>
+    <ul>
+      <li><strong>Coaching zmiany i rozwoju osobistego (life coaching).</strong> Praca nad przekraczaniem osobistych barier, budowaniem odporności psychicznej i realizacją indywidualnych celów życiowych.</li>
+      <li><strong>Coaching kariery i adaptacji.</strong> Wsparcie w planowaniu ścieżki zawodowej, przebranżowieniu oraz odnajdywaniu się w nowych rolach i środowiskach.</li>
+      <li><strong>Coaching biznesowy.</strong> Praca z przedsiębiorcami, liderami i pracownikami nad efektywnością, komunikacją oraz zarządzaniem relacjami w miejscu pracy.</li>
+    </ul>
+
+    <h3>Metodologia pracy</h3>
+    <p>Proces opieram na czystym coachingu: nie doradzam i nie szkolę, lecz stymuluję do samodzielnego poszukiwania rozwiązań. Wykorzystuję wiedzę z zakresu mechanizmów poznawczych i psychologii behawioralnej. Ty jesteś ekspertem od swojego życia, ja odpowiadam za strukturę i bezpieczeństwo procesu, koncentrując się na Twoich mierzalnych rezultatach.</p>
+
+    <h3>Krok pierwszy: bezpłatna konsultacja wstępna (45 minut)</h3>
+    <p>Zanim rozpoczniemy współpracę, zapraszam na spotkanie zapoznawcze (chemistry meeting). Omówimy Twój główny cel, sprawdzimy, czy coaching to właściwe narzędzie na ten moment, oraz zbadamy, czy odpowiada nam wspólna dynamika pracy.</p>
+    <p><a class="button" href={KALENDARZ || '/kontakt/'}>{KALENDARZ ? 'Wybierz termin w kalendarzu' : 'Umów konsultację'}</a></p>
+
+    <h3>Zasady współpracy</h3>
+    <ul>
+      <li><strong>Struktura.</strong> Jeden proces to zazwyczaj od 4 do 10 sesji (każda trwa 60 minut).</li>
+      <li><strong>Poufność.</strong> Zapewniam pełną dyskrecję i przestrzeganie kodeksu etycznego.</li>
+      <li><strong>Wycena.</strong> Ceny ustalane są w formie pakietowej po sesji wstępnej, zależnie od wybranego obszaru pracy.</li>
+    </ul>
   </div>
 </Base>
