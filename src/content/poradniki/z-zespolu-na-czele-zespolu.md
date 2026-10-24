@@ -1,6 +1,6 @@
 ---
-title: "Z zespołu – na czele zespołu"
-description: "Praktyczny przewodnik dla elektroradiologa, który awansował na kierownika zakładu diagnostyki obrazowej szpitala wojewódzkiego – i 24-osobowego zespołu, z którego się wywodzi."
+title: "Z kolegi na szefa"
+description: "PRAKTYCZNY PORADNIK DLA NOWYCH KIEROWNIKÓW.Jak przejąć zespół, nie tracąc zaufania ludzi."
 date: 2026-10-04
 tags: ["nowy kierownik", "ochrona zdrowia", "przywództwo"]
 toc: true
