@@ -1,0 +1,107 @@
+---
+import Base from '../../layouts/Base.astro';
+
+// Do uzupełnienia przez Roberta. Puste pole = na stronie pojawia się „wkrótce” albo „do ustalenia”.
+const TERMIN = '';
+const MIEJSCE = '';
+const CENA = '';
+const CENA_OBEJMUJE = '';
+---
+<Base
+  title="Warsztat tranzytu. Dwa dni na progu"
+  description="Dwudniowy warsztat wyjazdowy dla osób, które stoją przed ważnym przejściem w życiu albo noszą w sobie zakończenie, które nigdy nie zostało domknięte."
+>
+  <div class="narrow">
+    <p class="meta"><a href="/szkolenia/">Szkolenia i coaching</a></p>
+    <h1>Warsztat tranzytu. Dwa dni na progu</h1>
+    <p class="lead">Dwudniowy warsztat wyjazdowy dla osób, które stoją przed ważnym przejściem w życiu albo noszą w sobie zakończenie, które nigdy nie zostało domknięte.</p>
+
+    <dl class="facts">
+      <dt>Termin</dt><dd>{TERMIN || 'wkrótce'}</dd>
+      <dt>Miejsce</dt><dd>{MIEJSCE ? `${MIEJSCE}, ośrodek z noclegiem` : 'ośrodek z noclegiem, do ustalenia'}</dd>
+      <dt>Grupa</dt><dd>do 10 osób</dd>
+      <dt>Prowadzenie</dt><dd>Robert Bembnista</dd>
+      <dt>Koszt</dt><dd>{CENA || 'do ustalenia'}</dd>
+    </dl>
+
+    <div class="prose">
+      <p>Niektóre zakończenia trwają latami, bo nikt ich nigdy nie zaznaczył: rozstanie, odejście z pracy, śmierć bliskiej osoby, koniec ważnej roli. Inne dopiero nadchodzą: diagnoza, na którą czekasz, emerytura, awans, nowa praca, reorganizacja w firmie, rozstanie, którego się boisz. A czasem chcesz spokojnie, zawczasu, pomyśleć o ostatnim progu.</p>
+      <p>Żyjemy szybko. Zmiany przychodzą jedna po drugiej, a my rzadko mamy czas, żeby którąś z nich naprawdę przeżyć do końca: pożegnać to, co było, wytrzymać czas „pomiędzy” i świadomie wejść w nowe. Ten warsztat daje na to dwa dni, miejsce i ludzi.</p>
+
+      <h2>Dla kogo</h2>
+      <p>Dla dorosłych, którzy przechodzą przez zmianę albo wiedzą, że ona nadchodzi. W grupie spotykają się dwie drogi:</p>
+      <ul>
+        <li><strong>Domykam.</strong> Coś się już skończyło, ale wciąż we mnie trwa. Chcę zobaczyć, co z tego zabieram, a co mogę zostawić.</li>
+        <li><strong>Przygotowuję się.</strong> Coś się zbliża. Chcę nazwać, co się skończy, i sprawdzić, co będzie mi potrzebne, żeby przejść.</li>
+      </ul>
+      <p>Także zmiany „dobre”, takie jak awans czy nowa praca, zaczynają się od straty: dawnej roli, dawnego zespołu, dawnego miejsca wśród ludzi. Na warsztacie każde przejście jest prawdziwe i żadne nie jest porównywane z innym.</p>
+
+      <h2>Co się wydarzy</h2>
+      <p>Każde przejście w życiu ma trzy fazy, opisane przez antropologów ponad sto lat temu: <strong>oddzielenie, próg i włączenie</strong>. Na tym warsztacie nie tylko o nich rozmawiamy. Przechodzimy przez nie razem, w czasie i w ciele.</p>
+      <ul>
+        <li><strong>Oddzielenie (dzień 1).</strong> Wyjazd z domu, telefon w koszyku, przyglądanie się temu, co się kończy. Pisanie, rozmowa w małych grupach, praca w ruchu i wieczorny gest przekroczenia progu.</li>
+        <li><strong>Próg (wieczór, noc i ranek).</strong> Wspólna kolacja, ognisko, cisza nocna, poranek w ośrodku z dala od codzienności. Czas „pomiędzy”.</li>
+        <li><strong>Włączenie (dzień 2).</strong> Przejście przez labirynt, w którym każdy idzie sam swoją drogą do środka i z powrotem, a przy wyjściu ktoś na niego czeka. Potem wspólny obiad, rozmowa o tym, z czym wychodzimy, i powrót do domu przy świadkach.</li>
+      </ul>
+      <p>Wszystko, co proponuję, jest zaproszeniem. W każdej chwili można zrobić krok w tył, wybrać lżejszą wersję ćwiczenia albo po prostu być obok.</p>
+
+      <h2>Dlaczego sięgamy do najstarszych tradycji</h2>
+      <p>Przez tysiące lat ludzie nie przechodzili przez progi życia sami. Mieli obrzędy, które prowadziły od pożegnania, przez czas zawieszenia, do powrotu do wspólnoty. Ich ślady przetrwały do niedawna w zwyczajach i pieśniach ludzi z Polesia, krainy bagien i lasów nad Prypecią, w których badacze widzą wyjątkowo stare warstwy kultury. Część z nich może sięgać czasów prasłowiańskich, a nawet wcześniejszych.</p>
+      <p>Nie odgrywamy dawnych obrzędów. Sięgamy do nich po to, żeby odnaleźć siebie. Schemat oddzielenie, próg i włączenie działa jak mapa: pozwala zobaczyć, której części mojego przejścia brakuje, i poskładać ten proces w całość. Gesty na warsztacie są proste i współczesne. Stare opowieści pokazują, skąd się biorą i dlaczego wciąż coś w nas poruszają.</p>
+      <p>Warsztat nie ma charakteru religijnego. Osoby wierzące mogą włączyć w każdy gest modlitwę albo obrzęd swojej tradycji. Nic tutaj tego nie wymaga ani nie zastępuje.</p>
+
+      <h2>Program</h2>
+      <h3>Dzień 1: oddzielenie</h3>
+      <ul>
+        <li>12:00 przyjazd i powitanie</li>
+        <li>12:40 wspólny obiad</li>
+        <li>13:30–19:00 praca warsztatowa (z przerwami)</li>
+        <li>19:00 kolacja, wieczorem ognisko dla chętnych</li>
+      </ul>
+      <h3>Dzień 2: próg i włączenie</h3>
+      <ul>
+        <li>8:30 poranek na progu</li>
+        <li>9:00–13:00 labirynt</li>
+        <li>13:30 wspólny obiad</li>
+        <li>14:00–15:00 z czym wychodzę: domknięcie i krąg wsparcia</li>
+        <li>15:15 zakończenie</li>
+      </ul>
+
+      <h2>Z czym wyjedziesz</h2>
+      <ul>
+        <li>Z jednym konkretnym krokiem, który zrobisz po powrocie.</li>
+        <li>Z kalendarzem swojego przejścia i mapą tego, co cię w nim wzmacnia, a co osłabia, kto pomaga, a kto przeszkadza.</li>
+        <li>Z kartami do dalszej pracy w domu, w swoim tempie.</li>
+        <li>Jeśli zechcesz, z grupą ludzi, do których możesz zadzwonić, kiedy staniesz na progu.</li>
+      </ul>
+      <p>To, co zrobisz z tą mapą, należy do ciebie. Możesz z niej skorzystać, ale nie musisz.</p>
+
+      <h2>Po warsztacie</h2>
+      <p>Wspólnota, która rodzi się na wyjeździe, jest prawdziwa, ale krucha. Dlatego warsztat nie kończy się w dniu wyjazdu. Kto chce, umawia się z jedną osobą z grupy na telefon w ciągu dwóch tygodni. Po 4–6 tygodniach spotykamy się online. Po trzech miesiącach przychodzi pocztą list, który napiszesz do siebie na warsztacie. Po roku jest spotkanie rocznicowe. Udział w grupie wsparcia jest dobrowolny.</p>
+
+      <h2>Prowadzący</h2>
+      <p><strong>Robert Bembnista</strong> – coach i trener, autor książki <a href="/ksiazki/tranzyty/"><em>Tranzyty. Antropologia życiowych kryzysów</em></a>. Przez kilkanaście lat pracował w korporacji jako HR Business Partner: zatrudniał i zwalniał, uczestniczył w reorganizacjach po stronie pracodawcy, a sam też został zwolniony. Dziś towarzyszy ludziom na zawodowych i życiowych rozdrożach. Interesuje go to, co dzieje się z człowiekiem pomiędzy jednym etapem życia a drugim.</p>
+
+      <h2>Ważne</h2>
+      <div class="callout">
+        <p>Warsztat nie jest terapią i jej nie zastępuje. Pomaga zaznaczyć przejście, nazwać je i przejść je przy świadkach. Nie leczy depresji, lęku ani powikłanej żałoby.</p>
+      </div>
+      <p>Przed zapisem rozmawiam z każdą osobą (20–30 minut, telefonicznie lub online), żeby wspólnie sprawdzić, czy to dobry moment na ten warsztat. Jeśli jesteś w ostrym kryzysie albo niedawno straciłeś lub straciłaś bliską osobę, możemy umówić się na późniejszy termin.</p>
+      <p>Warsztat odbywa się w sali i w terenie. Jeśli coś w twoim zdrowiu ogranicza ruch, powiedz o tym w rozmowie, a dopasujemy ćwiczenia do twoich sił.</p>
+
+      <h2>Informacje praktyczne</h2>
+      <ul>
+        <li><strong>Termin:</strong> {TERMIN || 'wkrótce'}</li>
+        <li><strong>Miejsce:</strong> {MIEJSCE || 'do ustalenia'}</li>
+        <li><strong>Koszt:</strong> {CENA || 'do ustalenia'}</li>
+        {CENA_OBEJMUJE && <li><strong>Cena obejmuje:</strong> {CENA_OBEJMUJE}</li>}
+        <li><strong>Liczba miejsc:</strong> do 10 osób</li>
+        <li><strong>Co zabrać:</strong> przedmiot, który kojarzy ci się z tym, co się kończy albo nadchodzi (zdjęcie, klucz, kubek, list), wygodne buty i ubranie na wyjście w teren przy każdej pogodzie. Szczegóły prześlę tydzień przed warsztatem.</li>
+      </ul>
+
+      <h2>Zapisy</h2>
+      <p>Zapisy zaczynają się od rozmowy. Napisz do mnie, a umówimy się na krótką rozmowę przed warsztatem.</p>
+    </div>
+    <p><a class="button" href="/kontakt/">Porozmawiajmy</a></p>
+  </div>
+</Base>

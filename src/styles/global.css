@@ -77,6 +77,9 @@ h2 { font-size: 1.5rem; margin: 2.5rem 0 0.75rem; }
 }
 .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; padding: 0; list-style: none; }
 .tags li { font-size: 0.8rem; border: 1px solid var(--line); border-radius: 999px; padding: 0.1rem 0.6rem; color: var(--muted); }
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 0.35rem 1.25rem; margin: 1.5rem 0 2rem; padding: 1rem 1.25rem; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+.facts dt { font-weight: 600; }
+.facts dd { margin: 0; color: var(--muted); }
 .notice { background: var(--surface); border: 1px dashed var(--line); border-radius: 10px; padding: 1rem 1.25rem; color: var(--muted); }
 
 .site-footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 0.9rem; }
