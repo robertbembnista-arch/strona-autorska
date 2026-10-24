@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Article from '../../layouts/Article.astro';
+import SectionImage from '../../components/SectionImage.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('ksiazki');
@@ -15,6 +16,7 @@ const { Content } = await render(entry);
   description={entry.data.description}
   section={{ href: '/ksiazki/', label: 'Książki' }}
 >
+  {entry.data.image && <SectionImage file={entry.data.image} alt={entry.data.imageAlt} />}
   <p class="meta">{entry.data.status}</p>
   <Content />
   <div class="notice">

@@ -27,6 +27,8 @@ const ksiazki = defineCollection({
     title: z.string(),
     description: z.string(),
     status: z.string(),
+    image: z.string().optional(),
+    imageAlt: z.string().default(''),
     order: z.number().default(0),
   }),
 });

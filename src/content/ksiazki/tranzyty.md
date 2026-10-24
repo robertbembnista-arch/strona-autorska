@@ -3,6 +3,8 @@ title: "Tranzyty"
 description: "Książka o progach, przez które przechodzi każdy z nas: utracie pracy, rozwodzie, emeryturze, diagnozie i śmierci bliskich. Pokazuje, czym zmiana różni się od przejścia, i proponuje proste ćwiczenia na czas „pomiędzy”."
 status: "Książka przed wydaniem. Poniżej dwa fragmenty: Otwarcie i Rozdział 1."
 order: 1
+image: "hustawka"
+imageAlt: "Drewniana huśtawka stojąca w płytkiej wodzie przy piaszczystej plaży"
 ---
 
 > *„Kto by nauczył ludzi umierać, nauczyłby ich żyć.”*
