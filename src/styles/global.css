@@ -153,6 +153,6 @@ h1, .hero h1 { font-weight: 900; line-height: 1.05; }
   .hero-image { aspect-ratio: 3 / 4; }
 }
 
-/* Zdjęcia autora: jedyne kolorowe na stronie, pokazywane w naturalnym rozmiarze */
-.portrait { display: block; width: 219px; max-width: 100%; height: auto; border-radius: 6px; margin: 0 0 1.5rem; }
-.portrait-side { float: right; width: 111px; margin: 0.3rem 0 1rem 1.5rem; }
+/* Zdjęcia autora: jedyne kolorowe na stronie */
+.portrait { display: block; width: 22rem; max-width: 100%; height: auto; border-radius: 6px; margin: 0 0 1.5rem; }
+.portrait-side { float: right; width: 16rem; max-width: 45%; margin: 0.3rem 0 1rem 1.5rem; }
