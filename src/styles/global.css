@@ -141,3 +141,11 @@ h1, .hero h1 { font-weight: 900; line-height: 1.05; }
 @media (max-width: 40rem) { .section-image img { aspect-ratio: 3 / 2; } }
 
 .buttons { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+
+/* Strona główna: tekst i zdjęcie obok siebie */
+.hero-split { display: grid; gap: 2rem; align-items: center; }
+.hero-image { display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; background: var(--line); }
+@media (min-width: 48rem) {
+  .hero-split { grid-template-columns: 1fr 26rem; gap: 3rem; }
+  .hero-image { aspect-ratio: 3 / 4; }
+}
