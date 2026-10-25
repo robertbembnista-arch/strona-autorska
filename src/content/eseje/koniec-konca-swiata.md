@@ -2,6 +2,7 @@
 title: "Koniec końca świata"
 description: "Skąd opowieść o końcu świata wzięła swój kształt i czy da się myśleć o przyszłości, która nie ma ostatniego rozdziału."
 date: 2026-10-15
+order: 2
 tags: ["protopia", "przyszłość", "technologia"]
 ---
 

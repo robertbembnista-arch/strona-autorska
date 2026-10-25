@@ -1,13 +1,14 @@
 ---
 interface Props {
   items: { href: string; title: string; description: string }[];
+  numbered?: boolean;
 }
-const { items } = Astro.props;
+const { items, numbered = false } = Astro.props;
 ---
 <ul class="cards">
-  {items.map((i) => (
+  {items.map((i, n) => (
     <li class="card">
-      <h3><a href={i.href}>{i.title}</a></h3>
+      <h3>{numbered && <span class="num">{n + 1}.</span>} <a href={i.href}>{i.title}</a></h3>
       <p>{i.description}</p>
     </li>
   ))}

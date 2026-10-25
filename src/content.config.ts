@@ -8,6 +8,7 @@ const tekst = z.object({
   tags: z.array(z.string()).default([]),
   draft: z.boolean().default(false),
   toc: z.boolean().default(false),
+  order: z.number().optional(),
 });
 
 const eseje = defineCollection({

@@ -139,6 +139,9 @@ h1, .hero h1 { font-weight: 900; line-height: 1.05; }
 .section-image { margin: 1.5rem 0 2.5rem; }
 .section-image img { display: block; width: 100%; aspect-ratio: 21 / 9; object-fit: cover; background: var(--line); }
 @media (max-width: 40rem) { .section-image img { aspect-ratio: 3 / 2; } }
+.section-image.compact { margin: 1rem 0 1.5rem; }
+.section-image.compact img { aspect-ratio: auto; height: clamp(7rem, 18vh, 11rem); }
+.card .num { color: var(--accent); margin-right: 0.15em; }
 
 .buttons { display: flex; flex-wrap: wrap; gap: 0.6rem; }
 

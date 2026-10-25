@@ -2,6 +2,7 @@
 title: "Krzemień i lustro"
 description: "Ten esej pyta, jak musimy zmienić nawyki myślenia, które wynieśliśmy ze świata, którego już nie ma."
 date: 2026-10-12
+order: 1
 tags: ["technium", "przyszłość", "technologia"]
 ---
 

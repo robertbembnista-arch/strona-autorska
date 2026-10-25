@@ -4,10 +4,11 @@ interface Props {
   file: string;
   alt: string;
   position?: string;
+  compact?: boolean;
 }
-const { file, alt, position = 'center' } = Astro.props;
+const { file, alt, position = 'center', compact = false } = Astro.props;
 ---
-<figure class="section-image">
+<figure class:list={["section-image", { compact }]}>
   <img
     src={`/fotografie/${file}-1200.webp`}
     srcset={`/fotografie/${file}-1200.webp 1200w, /fotografie/${file}-2400.webp 2400w`}

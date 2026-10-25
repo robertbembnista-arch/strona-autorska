@@ -2,6 +2,7 @@
 title: "Bóg jako czasownik"
 description: "Technium podważa obie klasyczne odpowiedzi o miejsce człowieka w kosmosie, a pytania religijne zmieniają przedmiot: z pytania o to, kim jesteśmy, w pytanie o to, czym się stajemy."
 date: 2026-10-18
+order: 3
 tags: ["technium", "religia", "technologia"]
 ---
 
