@@ -4,12 +4,10 @@ import Base from '../layouts/Base.astro';
 import TextList from '../components/TextList.astro';
 import { SITE } from '../config';
 
-const eseje = (await getCollection('eseje', ({ data }) => !data.draft)).map((e) => ({ ...e, section: 'eseje' }));
-const poradniki = (await getCollection('poradniki', ({ data }) => !data.draft)).map((e) => ({ ...e, section: 'poradniki' }));
-const latest = [...eseje, ...poradniki]
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 3)
-  .map((e) => ({ href: `/${e.section}/${e.id}/`, title: e.data.title, description: e.data.description }));
+// Wybrane przez autora teksty pokazywane w sekcji „Najnowsze teksty”.
+const NAJNOWSZE = ['bog-jako-czasownik'];
+const latest = (await getCollection('eseje', ({ id, data }) => !data.draft && NAJNOWSZE.includes(id)))
+  .map((e) => ({ href: `/eseje/${e.id}/`, title: e.data.title, description: e.data.description }));
 const [book] = (await getCollection('ksiazki')).sort((a, b) => a.data.order - b.data.order);
 ---
 <Base>
