@@ -1,4 +1,5 @@
 :root {
+  color-scheme: light;
   --bg: #faf7f2;
   --surface: #ffffff;
   --text: #22252b;
@@ -10,16 +11,6 @@
   --display: 'Archivo', 'Arial Black', Impact, sans-serif;
   --mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
   --measure: 40rem;
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #16181d;
-    --surface: #1e2128;
-    --text: #e8e4dc;
-    --muted: #a3a9b4;
-    --accent: #e09a7f;
-    --line: #2f333c;
-  }
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -127,9 +118,6 @@ h2 { font-size: 1.5rem; margin: 2.5rem 0 0.75rem; }
   --display: var(--sans);
   --mono: var(--sans);
   --measure: 42rem;
-}
-@media (prefers-color-scheme: dark) {
-  :root { --bg: #17181b; --surface: #222327; --text: #ecebe8; --muted: #a7aab1; --accent: #f0624f; --accent-dark: #ff7a68; --line: #303238; }
 }
 body { font-family: var(--sans); }
 h1, h2, h3, .brand { font-family: var(--display); font-weight: 700; letter-spacing: -0.01em; }
