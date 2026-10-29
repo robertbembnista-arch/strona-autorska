@@ -1,11 +1,13 @@
 ---
 import Base from '../layouts/Base.astro';
 import { SITE } from '../config';
+import SectionImage from '../components/SectionImage.astro';
 ---
 <Base title="Kontakt" description="Kontakt z Robertem Bembnistą: wydawnictwa, szkolenia, coaching.">
   <div class="narrow">
     <h1>Kontakt</h1>
     <p class="lead">Wydawnictwa, redakcje, szkolenia i coaching.</p>
+    <SectionImage file="maroko-wielblady" alt="Cienie karawany wielbłądów na piasku wydmy" />
     {SITE.email ? <p>E-mail: <a href={`mailto:${SITE.email}`}>{SITE.email}</a></p> : <div class="notice">Adres e-mail do uzupełnienia.</div>}
     {SITE.linkedin && <p>LinkedIn: <a href={SITE.linkedin}>profil</a></p>}
   </div>
