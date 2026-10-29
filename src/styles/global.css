@@ -114,26 +114,78 @@ h2 { font-size: 1.5rem; margin: 2.5rem 0 0.75rem; }
 .toc ol { margin: 0; padding-left: 1.4rem; }
 .toc li { margin-bottom: 0.2rem; }
 
-/* Typografia w stylu magazynu: szerokie, ciężkie nagłówki, szeryfowy tekst, etykiety w mono */
-h1, h2, h3, .brand, .card h3 {
-  font-family: var(--display);
-  font-stretch: 125%;
-  font-weight: 800;
-  letter-spacing: -0.01em;
+/* Wygląd w stylu Smashing Magazine: biała strona, czerwony akcent, pogrubiony bezszeryfowy krój w nagłówkach */
+:root {
+  --bg: #ffffff;
+  --surface: #f7f2ef;
+  --text: #1f1f1f;
+  --muted: #61646b;
+  --accent: #d33a2c;
+  --accent-dark: #b02c20;
+  --line: #ece4df;
+  --sans: 'Fira Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --display: var(--sans);
+  --mono: var(--sans);
+  --measure: 42rem;
 }
-h1, .hero h1 { font-weight: 900; line-height: 1.05; }
-.brand { font-size: 1.15rem; text-transform: uppercase; letter-spacing: 0.02em; }
-.nav, .meta, .tags li, .button, .toc h2, .site-footer, .callout strong:first-child {
-  font-family: var(--mono);
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #17181b; --surface: #222327; --text: #ecebe8; --muted: #a7aab1; --accent: #f0624f; --accent-dark: #ff7a68; --line: #303238; }
 }
-.nav, .meta, .tags li, .button {
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  font-size: 0.78rem;
+body { font-family: var(--sans); }
+h1, h2, h3, .brand { font-family: var(--display); font-weight: 700; letter-spacing: -0.01em; }
+h1 { font-weight: 800; line-height: 1.1; }
+.lead, .card p { font-family: var(--serif); }
+
+.site-header { border-bottom: 0; box-shadow: 0 1px 0 var(--line); border-top: 6px solid var(--accent); }
+.brand { display: inline-flex; align-items: center; gap: 0.6rem; font-size: 1.2rem; color: var(--text); }
+.brand-badge { display: inline-grid; place-items: center; width: 2.3rem; height: 2.3rem; border-radius: 50%; background: var(--accent); color: #fff; font-size: 0.85rem; font-weight: 800; transform: rotate(-8deg); }
+.nav { font-weight: 600; font-size: 0.98rem; gap: 0.25rem 1.3rem; }
+.nav a { color: var(--text); }
+.nav a:hover, .nav a[aria-current='page'] { color: var(--accent); }
+.nav a[aria-current='page'] { text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 0.45em; }
+
+.meta, .card-meta { font-size: 0.85rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; font-weight: 600; }
+.tags li { border: 0; background: var(--surface); border-radius: 4px; color: var(--accent-dark); font-weight: 600; font-size: 0.8rem; }
+.button { border-radius: 11px; color: #fff; font-weight: 700; box-shadow: 0 3px 0 var(--accent-dark); }
+.button:hover { background: var(--accent-dark); }
+.button-ghost { background: transparent; color: var(--accent); box-shadow: inset 0 0 0 2px var(--accent); }
+.button-ghost:hover { background: var(--accent); color: #fff; }
+
+/* Zajawki tekstów jedna pod drugą, z linią akcentu */
+.cards { grid-template-columns: 1fr; gap: 0; }
+.card { background: none; border: 0; border-radius: 0; border-bottom: 1px solid var(--line); padding: 1.6rem 0; }
+.card:first-child { padding-top: 0.5rem; }
+.card h3 { font-size: clamp(1.4rem, 3vw, 1.85rem); line-height: 1.2; margin: 0.25rem 0 0.6rem; }
+.card h3 a:hover { color: var(--accent); }
+.card p { font-size: 1.1rem; line-height: 1.6; color: var(--text); }
+.card .card-meta { font-family: var(--sans); font-size: 0.85rem; color: var(--muted); }
+.card-meta { display: flex; flex-wrap: wrap; gap: 0.3rem 0.9rem; margin: 0; }
+.card-tag { color: var(--accent); }
+.card .more { display: inline-block; margin-top: 0.7rem; font-weight: 700; text-decoration: none; }
+.card .num { color: var(--accent); }
+
+.section-label { font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); margin: 2.5rem 0 0.5rem; }
+.intro { padding: 0.5rem 0 0.5rem; }
+.intro h1 { font-size: clamp(2.2rem, 6vw, 3.4rem); }
+
+/* Strona główna: kolumna tekstów i pasek boczny */
+.home-grid { display: grid; gap: 2rem; }
+.author-box { background: var(--surface); border-radius: 11px; padding: 1.5rem; font-family: var(--serif); font-size: 1.05rem; }
+.author-photo { display: block; width: 11rem; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 20%; border-radius: 11px; transform: rotate(-3deg); box-shadow: 8px 8px 0 var(--accent); margin: 0.5rem 0 1.5rem 0.5rem; }
+.author-box .buttons { font-family: var(--sans); }
+@media (min-width: 52rem) {
+  .home-grid { grid-template-columns: 1fr 19rem; gap: 3.5rem; align-items: start; }
+  .home-side { position: sticky; top: 1.5rem; margin-top: 2.5rem; }
 }
-.lead { font-family: var(--serif); }
-.card p { font-family: var(--serif); font-size: 1rem; }
-.prose .footnotes h2, .toc h2 { font-stretch: 100%; }
+
+.sections { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); padding: 0; list-style: none; }
+.sections a { display: block; height: 100%; padding: 1.2rem 1.3rem; border-radius: 11px; background: var(--surface); color: var(--text); text-decoration: none; border-bottom: 4px solid var(--accent); }
+.sections a:hover { background: var(--accent); color: #fff; }
+.sections strong { display: block; font-size: 1.2rem; margin-bottom: 0.3rem; }
+.sections span { font-family: var(--serif); font-size: 0.98rem; }
+
+.site-footer { background: var(--surface); border-top: 0; }
+.prose blockquote { border-left-color: var(--accent); }
 
 /* Zdjęcie na górze działu */
 .section-image { margin: 1.5rem 0 2.5rem; }

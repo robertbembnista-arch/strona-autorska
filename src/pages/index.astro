@@ -7,36 +7,52 @@ import { SITE } from '../config';
 // Wybrane przez autora teksty pokazywane w sekcji „Najnowsze teksty”.
 const NAJNOWSZE = ['bog-jako-czasownik'];
 const latest = (await getCollection('eseje', ({ id, data }) => !data.draft && NAJNOWSZE.includes(id)))
-  .map((e) => ({ href: `/eseje/${e.id}/`, title: e.data.title, description: e.data.description }));
+  .map((e) => ({ href: `/eseje/${e.id}/`, title: e.data.title, description: e.data.description, tags: e.data.tags, date: e.data.date }));
 const [book] = (await getCollection('ksiazki')).sort((a, b) => a.data.order - b.data.order);
 ---
 <Base>
   <div class="wrap">
-    <section class="hero hero-split">
-      <div class="hero-text">
-        <h1>{SITE.name}</h1>
-        <p class="lead">{SITE.tagline}.</p>
-        <p class="buttons"><a class="button" href="/szkolenia/">Szkolenia</a> <a class="button" href="/coaching/">Coaching</a></p>
-      </div>
-      <img
-        class="hero-image"
-        src="/fotografie/robert-start.webp"
-        alt="Robert Bembnista"
-        width="378"
-        height="601"
-        style="object-position: center 20%"
-        decoding="async"
-      />
+    <section class="intro">
+      <h1>{SITE.name}</h1>
+      <p class="lead">{SITE.tagline}.</p>
     </section>
 
-    <h2>Najnowsze teksty</h2>
-    <TextList items={latest} />
+    <div class="home-grid">
+      <div class="home-main">
+        <h2 class="section-label">Najnowsze teksty</h2>
+        <TextList items={latest} />
 
-    {book && (
-      <>
-        <h2>Książka</h2>
-        <TextList items={[{ href: `/ksiazki/${book.id}/`, title: book.data.title, description: book.data.description }]} />
-      </>
-    )}
+        {book && (
+          <>
+            <h2 class="section-label">Książka</h2>
+            <TextList items={[{ href: `/ksiazki/${book.id}/`, title: book.data.title, description: book.data.description }]} />
+          </>
+        )}
+      </div>
+
+      <aside class="home-side">
+        <div class="author-box">
+          <img
+            class="author-photo"
+            src="/fotografie/robert-start.webp"
+            alt="Robert Bembnista"
+            width="378"
+            height="601"
+            decoding="async"
+          />
+          <p>Piszę o przyszłości, technologii i przywództwie. Prowadzę szkolenia i coaching.</p>
+          <p class="buttons"><a class="button" href="/szkolenia/">Szkolenia</a> <a class="button button-ghost" href="/coaching/">Coaching</a></p>
+          <p><a href="/o-mnie/">Więcej o mnie ↬</a></p>
+        </div>
+      </aside>
+    </div>
+
+    <h2 class="section-label">Działy</h2>
+    <ul class="sections">
+      <li><a href="/ksiazki/"><strong>Książki</strong><span>Fragmenty i opisy książek.</span></a></li>
+      <li><a href="/eseje/"><strong>Eseje</strong><span>Dłuższe teksty o przyszłości i technice.</span></a></li>
+      <li><a href="/poradniki/"><strong>Poradniki</strong><span>Praktyczne teksty dla menedżerów.</span></a></li>
+      <li><a href="/szkolenia/"><strong>Szkolenia</strong><span>Warsztaty dla zespołów i liderów.</span></a></li>
+    </ul>
   </div>
 </Base>

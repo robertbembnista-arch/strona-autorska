@@ -1,15 +1,23 @@
 ---
 interface Props {
-  items: { href: string; title: string; description: string }[];
+  items: { href: string; title: string; description: string; tags?: string[]; date?: Date }[];
   numbered?: boolean;
 }
 const { items, numbered = false } = Astro.props;
+const fmt = new Intl.DateTimeFormat('pl-PL', { dateStyle: 'long' });
 ---
 <ul class="cards">
   {items.map((i, n) => (
     <li class="card">
+      {(i.date || i.tags?.length) && (
+        <p class="card-meta">
+          {i.date && <time datetime={i.date.toISOString()}>{fmt.format(i.date)}</time>}
+          {i.tags?.map((t) => <span class="card-tag">{t}</span>)}
+        </p>
+      )}
       <h3>{numbered && <span class="num">{n + 1}.</span>} <a href={i.href}>{i.title}</a></h3>
       <p>{i.description}</p>
+      <a class="more" href={i.href} aria-hidden="true" tabindex="-1">Czytaj dalej ↬</a>
     </li>
   ))}
 </ul>
