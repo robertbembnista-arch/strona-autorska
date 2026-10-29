@@ -155,3 +155,4 @@ h1, .hero h1 { font-weight: 900; line-height: 1.05; }
 
 /* Zdjęcia autora: jedyne kolorowe na stronie */
 .portrait { display: block; width: 22rem; max-width: 100%; height: auto; border-radius: 6px; margin: 0 0 1.5rem; }
+.hero-portrait { display: block; width: 141px; height: auto; border-radius: 6px; margin: 0 0 1.25rem; }
