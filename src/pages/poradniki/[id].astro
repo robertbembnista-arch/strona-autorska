@@ -21,7 +21,7 @@ const toc = entry.data.toc ? headings.filter((h) => h.depth === 2) : [];
   {toc.length > 0 && (
     <nav class="toc" aria-label="Spis treści">
       <h2>Spis treści</h2>
-      <ol>{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text.replace(/^\d+\.\s*/, '')}</a></li>)}</ol>
+      <ul>{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ul>
     </nav>
   )}
   <Content />

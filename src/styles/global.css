@@ -102,7 +102,8 @@ h2 { font-size: 1.5rem; margin: 2.5rem 0 0.75rem; }
 .callout p:last-child { margin-bottom: 0; }
 .toc { margin: 1.5rem 0 2rem; padding: 1rem 1.25rem; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; font-family: var(--sans); font-size: 0.95rem; }
 .toc h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
-.toc ol { margin: 0; padding-left: 1.4rem; }
+.toc ol, .toc ul { margin: 0; padding-left: 1.4rem; }
+.toc ul { list-style: none; padding-left: 0; }
 .toc li { margin-bottom: 0.2rem; }
 
 /* Wygląd w stylu Smashing Magazine: biała strona, czerwony akcent, pogrubiony bezszeryfowy krój w nagłówkach */

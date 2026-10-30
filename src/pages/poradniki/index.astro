@@ -5,7 +5,7 @@ import TextList from '../../components/TextList.astro';
 import SectionImage from '../../components/SectionImage.astro';
 
 const items = (await getCollection('poradniki', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99) || b.data.date.valueOf() - a.data.date.valueOf())
   .map((e) => ({ href: `/poradniki/${e.id}/`, title: e.data.title, description: e.data.description }));
 ---
 <Base title="Poradniki" description="Praktyczne teksty dla menedżerów i kierowników zespołów.">
