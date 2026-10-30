@@ -5,7 +5,7 @@ date: 2026-10-15
 order: 2
 zapowiedz:
   seria: "Umysł plemienia w technium · esej 2/6"
-  od: 2026-11-02T04:55:00Z
+  od: 2026-10-30T00:00:00Z
   premiera: 2026-12-10T04:55:00Z
   akapit: "Na początku lat sześćdziesiątych Stanisław Lem zaprasza czytelnika do eksperymentu myślowego. Każe nam wyobrazić sobie myśliciela z lat trzydziestych, któremu opowiadamy o świecie roku 1960: świat jest podzielony na dwa wrogie obozy, a każdy z nich ma broń zdolną zniszczyć drugą połowę świata. Co z tego wyniknie? Myśliciel odpowiedziałby bez wahania, że albo całkowita zagłada, albo całkowite rozbrojenie, i pewnie dodałby, że cała ta historia jest zbyt melodramatyczna, żeby w nią uwierzyć. „Tymczasem, jak dotąd, nic z takiego proroctwa” – zauważa Lem. Od powstania równowagi strachu minęło ponad piętnaście lat, a świat żył dalej, nierozbrojony i niezniszczony, w napięciu, którego nikt nie przewidział, bo nikt nie umiał go sobie wyobrazić. „Świat jest w pewnym sensie jak człowiek chory, który sądzi, że albo wnet wyzdrowieje, albo niebawem umrze, i nawet do głowy mu nie przychodzi, że może, kwękając, z okresowymi pogorszeniami i poprawami dożyć późnej starości”."
   oCzym: "Esej o tym, skąd opowieść o końcu wzięła swój kształt i dlaczego tak łatwo przechodzi z religii do polityki, a stamtąd do technologii: od koła i strzały u Eliadego, przez Augustyna, Joachima z Fiore i Löwitha, po Osobliwość. Naprzeciw niej protopia Kevina Kelly’ego i głosy jej krytyków."

@@ -3,7 +3,7 @@ import Base from '../layouts/Base.astro';
 
 // Do premiery trzeciego eseju zdanie o esejach mówi o datach premier zamiast „są na stronie”.
 const teraz = process.env.TERAZ ? new Date(process.env.TERAZ) : new Date();
-const premiery = teraz >= new Date('2026-11-02T04:55:00Z') && teraz < new Date('2027-01-14T04:55:00Z');
+const premiery = teraz >= new Date('2026-10-30T00:00:00Z') && teraz < new Date('2027-01-14T04:55:00Z');
 ---
 <Base title="O mnie" description="Biogram Roberta Bembnisty.">
   <div class="narrow">
