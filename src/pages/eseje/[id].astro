@@ -9,15 +9,33 @@ export async function getStaticPaths() {
 }
 const { entry } = Astro.props;
 const { Content } = await render(entry);
+
+// Przed premierą (od `zapowiedz.od`) zamiast pełnego tekstu pokazujemy zapowiedź.
+// TERAZ pozwala zbudować podgląd na wybraną datę, np. TERAZ=2026-11-05.
+const teraz = process.env.TERAZ ? new Date(process.env.TERAZ) : new Date();
+const z = entry.data.zapowiedz;
+const zapowiedz = z && teraz >= z.od && teraz < z.premiera ? z : undefined;
+const fmt = new Intl.DateTimeFormat('pl-PL', { dateStyle: 'long', timeZone: 'Europe/Warsaw' });
 ---
 <Article
   id={`eseje/${entry.id}`}
   title={entry.data.title}
   description={entry.data.description}
-  date={entry.data.date}
+  date={zapowiedz ? undefined : entry.data.date}
   tags={entry.data.tags}
   section={{ href: '/eseje/', label: 'Eseje' }}
 >
-  <Content />
+  {zapowiedz ? (
+    <>
+      <p class="series">{zapowiedz.seria}</p>
+      <p>{zapowiedz.akapit}</p>
+      <p><em>{zapowiedz.oCzym}</em></p>
+      <aside class="callout">
+        <p>Pełny esej z przypisami ukaże się <strong>{fmt.format(zapowiedz.premiera)}</strong>. Subskrybenci newslettera „Przekomponowanie” dostaną go jako pierwsi, o 7:00 rano.</p>
+      </aside>
+    </>
+  ) : (
+    <Content />
+  )}
   <SubstackEmbed />
 </Article>

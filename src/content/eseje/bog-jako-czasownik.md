@@ -3,6 +3,12 @@ title: "Bóg jako czasownik"
 description: "Technium podważa obie klasyczne odpowiedzi o miejsce człowieka w kosmosie, a pytania religijne zmieniają przedmiot: z pytania o to, kim jesteśmy, w pytanie o to, czym się stajemy."
 date: 2026-10-18
 order: 3
+zapowiedz:
+  seria: "Umysł plemienia w technium · esej 3/6"
+  od: 2026-11-02T04:55:00Z
+  premiera: 2027-01-14T04:55:00Z
+  akapit: "Na ostatnich stronach książki o tym, czego chce technika, Kevin Kelly kładzie obok siebie dwa przedmioty – rzekotkę i telefon komórkowy. Od zawsze, pisze, ludzie szukali Boga w przyrodzie – siadali pod drzewami, żeby doznać oświecenia, i wpatrywali się w rysunek paproci albo pióra. Dla jednych przyroda jest szczęśliwym przypadkiem, dla innych odbiciem Stwórcy, a dla tych drugich każdy gatunek jest jak trwające cztery miliardy lat spotkanie z Bogiem. Zaraz potem pada zdanie, które drażni wszystkich naraz: „A jednak w telefonie komórkowym możemy zobaczyć więcej Boga niż w rzekotce”. Telefon, tłumaczy Kelly, przedłuża cztery miliardy lat uczenia się zapisanego w żabie i dokłada do nich poszukiwania miliardów ludzkich umysłów."
+  oCzym: "Esej o tym, jak technium zmienia jednocześnie myślenie religijne i antyreligijne. Obok Kevina Kelly’ego stają ks. Michał Heller, Włodzisław Duch, Stephen Grossberg, Jack Symes i John Gray."
 tags: ["technium", "religia", "technologia"]
 ---
 

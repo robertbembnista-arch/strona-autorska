@@ -3,6 +3,12 @@ title: "Krzemień i lustro"
 description: "Ten esej pyta, jak musimy zmienić nawyki myślenia, które wynieśliśmy ze świata, którego już nie ma."
 date: 2026-10-12
 order: 1
+zapowiedz:
+  seria: "Umysł plemienia w technium · esej 1/6"
+  od: 2026-11-02T04:55:00Z
+  premiera: 2026-11-12T04:55:00Z
+  akapit: "Weźmy do ręki pięściak. Kamień wielkości dłoni, z grubsza w kształcie migdała, obity z obu stron tak, że brzegi zbiegają się w ostrze. Nasi przodkowie wyrabiali go w niemal niezmienionej formie przez ponad milion lat – najstarsze znane pięściaki mają około 1,76 miliona lat, a we wschodniej Afryce ustępują nowszym technikom dopiero około 320 tysięcy lat temu. Muzealna gablota każe nam patrzeć na niego jak na wynalazek, coś, co ktoś kiedyś wymyślił i czego potem używano. Ale nikt go nie wymyślił. I nie tylko my zrobiliśmy pięściak. On też zrobił nas."
+  oCzym: "Esej o tym, skąd się wzięły nasze modele rzeczywistości: od pięściaka i pytania Lema „Kto powoduje kim?”, przez matkę Tukano i przepis na maniok, łopatkę karibu i Tasmanię, która powoli zapominała, po lustro, które się odwraca."
 tags: ["technium", "przyszłość", "technologia"]
 ---
 

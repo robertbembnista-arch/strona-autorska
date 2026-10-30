@@ -9,6 +9,14 @@ const tekst = z.object({
   draft: z.boolean().default(false),
   toc: z.boolean().default(false),
   order: z.number().optional(),
+  // Zapowiedź pokazywana zamiast pełnego tekstu od `od` do `premiera` (strona przebudowuje się codziennie rano).
+  zapowiedz: z.object({
+    seria: z.string(),
+    od: z.coerce.date(),
+    premiera: z.coerce.date(),
+    akapit: z.string(),
+    oCzym: z.string(),
+  }).optional(),
 });
 
 const eseje = defineCollection({
