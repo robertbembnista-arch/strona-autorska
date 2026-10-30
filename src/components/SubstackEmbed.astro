@@ -1,0 +1,16 @@
+---
+import { SITE } from '../config';
+---
+{SITE.substack && (
+  <aside class="substack" aria-label="Zapis do Substacka">
+    <iframe
+      src={`${SITE.substack}/embed`}
+      title="Zapisz się na Substacku"
+      width="480"
+      height="320"
+      loading="lazy"
+      frameborder="0"
+      scrolling="no"
+    ></iframe>
+  </aside>
+)}

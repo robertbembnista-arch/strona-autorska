@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Article from '../../layouts/Article.astro';
+import SubstackEmbed from '../../components/SubstackEmbed.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('eseje', ({ data }) => !data.draft);
@@ -18,4 +19,5 @@ const { Content } = await render(entry);
   section={{ href: '/eseje/', label: 'Eseje' }}
 >
   <Content />
+  <SubstackEmbed />
 </Article>

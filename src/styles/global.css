@@ -196,3 +196,7 @@ h1 { font-weight: 800; line-height: 1.1; }
 
 /* Zdjęcia autora: jedyne kolorowe na stronie */
 .portrait { display: block; width: 22rem; max-width: 100%; height: auto; border-radius: 6px; margin: 0 0 1.5rem; }
+
+/* Ramka zapisu do Substacka pod esejami */
+.substack { margin: 3rem 0 1rem; }
+.substack iframe { display: block; width: 100%; max-width: 480px; height: 320px; border: 1px solid #eee; background: #fff; }

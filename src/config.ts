@@ -9,6 +9,8 @@ export const SITE = {
   // Do uzupełnienia przez Roberta:
   email: 'kontakt@robertbembnista.pl',
   linkedin: '',
+  // Ramka zapisu do Substacka pod każdym esejem. Pusty = bez ramki.
+  substack: 'https://robert145936.substack.com',
   // Identyfikator aplikacji Cusdis (komentarze). Pusty = komentarze wyłączone.
   cusdisAppId: '',
 };
