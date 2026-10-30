@@ -12,7 +12,8 @@ const books = (await getCollection('ksiazki')).sort((a, b) => a.data.order - b.d
     <SectionImage file="cypr-latarnia" alt="Betonowa ścieżka prowadząca do białej latarni morskiej pod zachmurzonym niebem" />
     <ul class="cards">
       {books.map((b) => (
-        <li class="card">
+        <li class="card book-card">
+          {b.data.cover && <a href={`/ksiazki/${b.id}/`} tabindex="-1" aria-hidden="true"><img class="cover" src={`/fotografie/${b.data.cover}-400.webp`} alt="" width="400" height="600" loading="lazy" /></a>}
           <h3><a href={`/ksiazki/${b.id}/`}>{b.data.title}</a></h3>
           <p>{b.data.description}</p>
           <p class="meta">{b.data.status}</p>

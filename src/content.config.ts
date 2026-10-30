@@ -35,6 +35,7 @@ const ksiazki = defineCollection({
   schema: z.object({
     title: z.string(),
     subtitle: z.string().optional(),
+    cover: z.string().optional(),
     description: z.string(),
     status: z.string(),
     image: z.string().optional(),

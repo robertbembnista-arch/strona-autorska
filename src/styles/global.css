@@ -201,3 +201,11 @@ h1 { font-weight: 800; line-height: 1.1; }
 .substack { margin: 3rem 0 1rem; }
 .substack iframe { display: block; width: 100%; max-width: 480px; height: 320px; border: 1px solid #eee; background: #fff; }
 .series { font-family: var(--sans); font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; color: var(--accent); }
+
+/* Okładka książki obok tytułu */
+.cover { display: block; width: 100%; height: auto; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); }
+.cover-head { display: grid; grid-template-columns: 1fr 8rem; gap: 1.25rem; align-items: start; }
+@media (min-width: 40rem) { .cover-head { grid-template-columns: 1fr 12rem; gap: 2rem; } }
+.book-card { display: flow-root; }
+.book-card .cover { float: left; width: 7rem; margin: 0.3rem 1.25rem 0.5rem 0; }
+@media (min-width: 40rem) { .book-card .cover { width: 9rem; margin-right: 1.75rem; } }

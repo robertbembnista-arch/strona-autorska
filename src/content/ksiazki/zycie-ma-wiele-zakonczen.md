@@ -4,6 +4,7 @@ subtitle: "O utracie, zmianie i odnajdywaniu siebie na nowo"
 description: "Książka o progach, przez które przechodzi każdy z nas: utracie pracy, rozwodzie, emeryturze, diagnozie i śmierci bliskich. Pokazuje, czym zmiana różni się od przejścia, i proponuje proste ćwiczenia na czas „pomiędzy”."
 status: "Książka przed wydaniem. Poniżej trzy fragmenty: Prolog, Otwarcie i Rozdział 1."
 order: 1
+cover: "okladka-zycie"
 image: "hustawka"
 imageAlt: "Drewniana huśtawka stojąca w płytkiej wodzie przy piaszczystej plaży"
 ---
