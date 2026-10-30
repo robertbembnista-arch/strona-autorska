@@ -1,6 +1,6 @@
 ---
 title: "Jak korzystać z podręcznika i matrycy kompetencji"
-description: "Instrukcja do Podręcznika nowego kierownika i nowej kierowniczki: od czego zacząć, jak dawkować lekturę przez pół roku i co zrobić, gdy nikogo nie ma obok."
+description: "Instrukcja do przewodnika „Awans to dopiero początek”: od czego zacząć, jak dawkować lekturę przez pół roku i co zrobić, gdy nikogo nie ma obok."
 date: 2026-10-30
 order: 2
 tags: ["nowy kierownik", "ochrona zdrowia", "przywództwo"]
@@ -10,7 +10,7 @@ toc: true
 *Instrukcja dla nowego kierownika i nowej kierowniczki · wydanie 2, październik 2026 · Robert*
 
 <aside class="callout">
-<p>Ta instrukcja towarzyszy <a href="/poradniki/z-zespolu-na-czele-zespolu/">Podręcznikowi nowego kierownika i nowej kierowniczki</a>. Numery rozdziałów w tekście odnoszą się do podręcznika.</p>
+<p>Ta instrukcja towarzyszy przewodnikowi <a href="/poradniki/z-zespolu-na-czele-zespolu/">„Awans to dopiero początek”</a>. Numery rozdziałów w tekście odnoszą się do przewodnika.</p>
 </aside>
 
 ## Na początek

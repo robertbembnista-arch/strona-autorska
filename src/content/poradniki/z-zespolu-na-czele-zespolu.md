@@ -1,29 +1,29 @@
 ---
-title: "Podręcznik nowego kierownika i nowej kierowniczki"
-description: "Z zespołu na czele zespołu. Praktyczny przewodnik dla osoby, która awansowała na szefa zespołu, w którym dotąd pracowała. Część ogólna dla każdej branży i części branżowe, zaczynając od ochrony zdrowia."
+title: "Awans to dopiero początek"
+description: "Jak zbudować autorytet, zachować relacje i skutecznie kierować zespołem, z którego się wywodzisz. Ultrapraktyczny przewodnik dla nowych kierowników i kierowniczek."
 date: 2026-10-30
 order: 1
 tags: ["nowy kierownik", "ochrona zdrowia", "przywództwo"]
 toc: true
 ---
 
-**Dla kogo:** dla osoby, która przez lata pracowała ramię w ramię z zespołem, a teraz po raz pierwszy nim kieruje, bez wcześniejszego doświadczenia menedżerskiego. Niezależnie od tego, czy to zespół obsługi klienta, brygada na produkcji, dział księgowości czy pracownia szpitalna.
+**Dla kogo:** dla osób, które po raz pierwszy kierują zespołem, w którym wcześniej pracowały, i nie mają doświadczenia menedżerskiego. Część I przyda się w każdej branży, Część II dodatkowo osobom kierującym zespołami w ochronie zdrowia.
 
-**Jak jest zbudowany:** Część I jest wspólna dla wszystkich. Opisuje zmianę roli, pierwsze 90 dni, relacje z byłymi kolegami i koleżankami, prawo pracy, związki zawodowe, organizację pracy, komunikację, kulturę zespołu i dbanie o siebie. Kolejne części dotyczą konkretnych branż i mają zawsze ten sam układ ośmiu rozdziałów. Część II opisuje branżę medyczną.
+**Układ:** Część I jest wspólna dla każdej branży: od zmiany roli i pierwszych 90 dni po relacje, organizację pracy i trudne decyzje. Część II dotyczy ochrony zdrowia: znajdziesz w niej m.in. bezpieczeństwo pacjentów, przepisy branżowe i współpracę z lekarzami. Przykładem wiodącym jest zakład diagnostyki obrazowej szpitala wojewódzkiego. Kolejne części branżowe będą miały ten sam układ ośmiu rozdziałów. Część I można czytać samodzielnie.
 
-**Jak czytać:** rozdziały 1–3 przeczytaj przed pierwszym dniem na stanowisku, a potem rozdział M1 (lub pierwszy rozdział swojej części branżowej). Resztę traktuj jak podręczną skrzynkę z narzędziami.
+**Jak czytać:** rozdziały 1–3 przeczytaj przed pierwszym dniem na stanowisku, a potem rozdział M1 (lub pierwszy rozdział swojej części branżowej) i checklistę 14.1. Resztę traktuj jak podręczną skrzynkę z narzędziami.
 
 Wydanie 2: październik 2026. Stan prawny: 4 października 2026 r.
 
 <aside class="callout">
-<p><strong>Zacznij od instrukcji.</strong> Krótki przewodnik, w jakiej kolejności czytać podręcznik i co zrobić w pierwszym tygodniu: <a href="/poradniki/instrukcja-korzystania-z-podrecznika/">Jak korzystać z podręcznika</a>.</p>
+<p><strong>Zacznij od instrukcji.</strong> Krótki przewodnik, w jakiej kolejności czytać i co zrobić w pierwszym tygodniu: <a href="/poradniki/instrukcja-korzystania-z-podrecznika/">Jak korzystać z podręcznika</a>.</p>
 </aside>
 
-## Wstęp: jak korzystać z podręcznika
+## Wstęp: jak korzystać z przewodnika
 
-### Dla kogo jest ten podręcznik
+### Dla kogo jest ten przewodnik
 
-Awans z wnętrza zespołu to jedna z najczęstszych i najtrudniejszych zmian zawodowych. Organizacje awansują zwykle najlepszych specjalistów i specjalistki, a potem zakładają, że kierowania nauczą się sami. Ten podręcznik jest dla osoby, która:
+Awans z wnętrza zespołu to jedna z najczęstszych i najtrudniejszych zmian zawodowych. Organizacje awansują zwykle najlepszych specjalistów i specjalistki, a potem zakładają, że kierowania nauczą się sami. Ten przewodnik jest dla osoby, która:
 
 - obejmuje kierowanie zespołem, w którym dotąd pracowała jako jedna z wielu,
 
@@ -37,7 +37,7 @@ Piszemy do Ciebie na „Ty” i w formie neutralnej płciowo. Tam, gdzie język 
 
 | **Część**                                    | **Co zawiera**                                                                                                                                                                                                                                               | **Kiedy po nią sięgasz**                                                                    |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| **Część I. Część ogólna** (rozdz. 1–15)      | To, co dotyczy każdej osoby awansowanej w swoim zespole: zmiana roli, plan 90 dni, byli koledzy, prawo pracy, rozstania, związki zawodowe, organizacja pracy, komunikacja, kultura zespołu, relacje, trudne sytuacje, dbanie o siebie, narzędzia do wydruku. | Zawsze. To fundament niezależny od branży.                                                  |
+| **Część I. Część ogólna** (rozdz. 1–⁠15)      | To, co dotyczy każdej osoby awansowanej w swoim zespole: zmiana roli, plan 90 dni, byli koledzy, prawo pracy, rozstania, związki zawodowe, organizacja pracy, komunikacja, kultura zespołu, relacje, trudne sytuacje, dbanie o siebie, narzędzia do wydruku. | Zawsze. To fundament niezależny od branży.                                                  |
 | **Część II. Branża medyczna** (rozdz. M1–M8) | Specyfika ochrony zdrowia: zawody medyczne, czas pracy w podmiotach leczniczych, bezpieczeństwo pacjenta, ochrona radiologiczna, lekarze, SOR, NFZ. Przykład wiodący: zakład diagnostyki obrazowej szpitala wojewódzkiego.                                   | Gdy kierujesz zespołem w szpitalu, przychodni, laboratorium lub innym podmiocie leczniczym. |
 | **Kolejne części branżowe**                  | Każda ma ten sam układ ośmiu rozdziałów (szablon w Załączniku A) i własną literę w numeracji.                                                                                                                                                                | Gdy zostaną dopisane dla Twojej branży.                                                     |
 
@@ -52,7 +52,7 @@ Piszemy do Ciebie na „Ty” i w formie neutralnej płciowo. Tam, gdzie język 
 | **Warstwa**                | **Rozdziały**                                                                                                                               | **Kiedy**                                                                         |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | 1\. Zanim zaczniesz        | 1 (co się zmienia), 2 (plan 90 dni), 3 (byli koledzy), 14.1 (checklista pierwszego tygodnia) oraz pierwszy rozdział Twojej części branżowej | Raz, przed pierwszym dniem. Do rozdz. 2 wracasz na początku każdego miesiąca.     |
-| 2\. Skrzynka z narzędziami | 4–11 oraz rozdziały 2–7 części branżowej                                                                                                    | Gdy pojawia się konkretna sytuacja. Czytasz jeden podrozdział, nie cały rozdział. |
+| 2\. Skrzynka z narzędziami | 4–⁠11 oraz rozdziały 2–⁠7 części branżowej                                                                                                    | Gdy pojawia się konkretna sytuacja. Czytasz jeden podrozdział, nie cały rozdział. |
 | 3\. Do namysłu             | 12 (kontrowersyjne tezy), 13 (zadbaj o siebie), 14.3 (samoocena), 15 (źródła)                                                               | Raz w miesiącu, najlepiej przed spotkaniem z mentorem, mentorką lub coachem.      |
 
 Trzy zasady, które chronią przed przytłoczeniem:
@@ -65,7 +65,7 @@ Trzy zasady, które chronią przed przytłoczeniem:
 
 <aside class="callout">
 <p><strong>Ważne zastrzeżenie</strong></p>
-<p>Podręcznik nie jest opinią prawną. Rozdziały o przepisach to mapa orientacyjna według stanu prawnego na 4 października 2026 r. Konkretny zakres Twoich obowiązków wynika z umowy, zakresu czynności, regulaminów wewnętrznych i układów zbiorowych w Twojej organizacji. W razie wątpliwości zapytaj kadry lub radcę prawnego i poproś o odpowiedź na piśmie.</p>
+<p>Przewodnik nie jest opinią prawną. Rozdziały o przepisach to mapa orientacyjna według stanu prawnego na 4 października 2026 r. Konkretny zakres Twoich obowiązków wynika z umowy, zakresu czynności, regulaminów wewnętrznych i układów zbiorowych w Twojej organizacji. W razie wątpliwości zapytaj kadry lub radcę prawnego i poproś o odpowiedź na piśmie.</p>
 </aside>
 
 ## CZĘŚĆ I. Kierowanie zespołem, z którego się wywodzisz
@@ -80,9 +80,9 @@ Najczęstszy błąd nowego kierownika i nowej kierowniczki to przekonanie, że a
 
 | **Było (specjalista, specjalistka)**     | **Jest (osoba kierująca)**                        | **Co to oznacza w praktyce**                                                                          |
 |------------------------------------------|---------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Jestem oceniana/oceniany za własną pracę | Jestem oceniana/oceniany za wyniki zespołu        | Twój najlepszy dzień to ten, w którym zespół działa bez Ciebie.                                       |
+| Jestem oceniana/⁠oceniany za własną pracę | Jestem oceniana/⁠oceniany za wyniki zespołu        | Twój najlepszy dzień to ten, w którym zespół działa bez Ciebie.                                       |
 | Mam rację, bo znam się na rzeczy         | Mam wpływ, bo ludzie mi ufają                     | Autorytet formalny dostajesz z umową. Autorytet realny zdobywasz miesiącami.                          |
-| Rozwiązuję problemy sam lub sama         | Buduję system, w którym problemy rozwiązują inni  | Pytanie „kto to zrobi?” zastępuje „szybciej zrobię to sam/sama”.                                      |
+| Rozwiązuję problemy sam lub sama         | Buduję system, w którym problemy rozwiązują inni  | Pytanie „kto to zrobi?” zastępuje „szybciej zrobię to sam/⁠sama”.                                      |
 | Jestem „jedną z nas”, „jednym z nas”     | Jestem łącznikiem między zespołem a przełożonymi  | Będziesz przekazywać decyzje, z którymi się nie zgadzasz, i bronić zespołu tam, gdzie go nie słychać. |
 | Kontroluję swoją pracę                   | Działam w niepewności i przy niepełnej informacji | Decyzja „wystarczająco dobra na dziś” jest lepsza niż idealna za miesiąc.                             |
 
@@ -103,7 +103,7 @@ Awans „z szeregów” ma przewagi, których nie ma nikt z zewnątrz: znasz pro
 
 - **Ludzie będą testować granice.** Nie ze złośliwości. Sprawdzają, czy zmieniła się osoba, czy tylko jej tytuł.
 
-- **Pokusa „zostania przy swojej robocie”.** W stresie każdy wraca do tego, w czym czuje się kompetentny. Dla Ciebie to praca specjalistyczna: obsługa klienta, księgowanie, maszyna, aparat. A nie rozmowa o spóźnieniach.
+- **Pokusa „zostania przy swojej robocie”.** W stresie każdy wraca do tego, w czym czuje się pewnie. Dla Ciebie to praca specjalistyczna: obsługa klienta, księgowanie, maszyna, aparat, a nie rozmowa o spóźnieniach.
 
 <aside class="callout">
 <p><strong>Sprawdź w swojej części branżowej</strong></p>
@@ -135,35 +135,35 @@ Plan opiera się na logice Michaela Watkinsa („The First 90 Days”): najpierw
 <th>Wiesz, o czym decydujesz sam lub sama, a o czym nie.</th>
 </tr>
 <tr>
-<th>Dni 1–30: słuchaj</th>
+<th>Dni 1–⁠30: słuchaj</th>
 <th>Zrozumieć zespół z nowej perspektywy</th>
 <th><ul>
-<li><p>Krótkie wystąpienie przed zespołem. Przy pracy zmianowej lub rozproszonej powtórz je 2–3 razy (rozdz. 3.2).</p></li>
-<li><p>Rozmowy 1:1 z każdą osobą (30–45 min, te same pytania), zaczynając od zastępcy, liderów nieformalnych i osoby, która mogła liczyć na awans.</p></li>
+<li><p>Krótkie wystąpienie przed zespołem. Przy pracy zmianowej lub rozproszonej powtórz je 2–⁠3 razy (rozdz. 3.2).</p></li>
+<li><p>Rozmowy 1:1 z każdą osobą (30–⁠45 min, te same pytania), zaczynając od zastępcy, liderów nieformalnych i osoby, która mogła liczyć na awans.</p></li>
 <li><p>Spotkania otwierające z kluczowymi osobami w organizacji (rozdz. 10.2).</p></li>
 <li><p>Przegląd danych: wyniki, zaległości, awarie, nadgodziny, absencja, reklamacje lub zdarzenia.</p></li>
 </ul></th>
-<th>Masz listę 3–5 problemów nazwanych przez zespół i potwierdzonych danymi.</th>
+<th>Masz listę 3–⁠5 problemów nazwanych przez zespół i potwierdzonych danymi.</th>
 </tr>
 <tr>
-<th>Dni 31–60: szybkie zwycięstwa</th>
+<th>Dni 31–⁠60: szybkie zwycięstwa</th>
 <th>Zbudować wiarygodność</th>
 <th><ul>
-<li><p>Wybierz 2–3 drobne, ale odczuwalne zmiany (np. przejrzyste zasady zamiany zmian, naprawa „wiecznie zepsutego” sprzętu, porządek w przekazywaniu pracy).</p></li>
+<li><p>Wybierz 2–⁠3 drobne, ale odczuwalne zmiany (np. przejrzyste zasady zamiany zmian, naprawa „wiecznie zepsutego” sprzętu, porządek w przekazywaniu pracy).</p></li>
 <li><p>Wprowadź stały rytm: odprawa, spotkania z liderami, cykl rozmów 1:1 (rozdz. 7.4).</p></li>
-<li><p>Spisz podział obowiązków z zastępcą lub drugą linią i przedstaw go zespołowi (rozdz. 3.5–3.6).</p></li>
+<li><p>Spisz podział obowiązków z zastępcą lub drugą linią i przedstaw go zespołowi (rozdz. 3.5–⁠3.6).</p></li>
 <li><p>Przeprowadź pierwszą trudną rozmowę. Nie odkładaj jej.</p></li>
 </ul></th>
 <th>Zespół mówi: „coś się ruszyło” i umie podać przykład.</th>
 </tr>
 <tr>
-<th>Dni 61–90: fundamenty</th>
+<th>Dni 61–⁠90: fundamenty</th>
 <th>Ustawić system na lata</th>
 <th><ul>
 <li><p>Matryca kompetencji i plan szkoleń (rozdz. 7.2).</p></li>
 <li><p>Zasady grafiku lub przydziału pracy spisane i omówione z zespołem.</p></li>
 <li><p>Plan na kolejne 6 miesięcy uzgodniony z przełożonym.</p></li>
-<li><p>Samoocena po 90 dniach i rozmowa z mentorem lub coachem.</p></li>
+<li><p>Samoocena po 90 dniach i rozmowa z mentorem, mentorką lub coachem.</p></li>
 </ul></th>
 <th>Masz plan, który zespół zna, a przełożony zatwierdził.</th>
 </tr>
@@ -208,7 +208,7 @@ Krótko (3–5 minut), na stojąco, na zwykłej odprawie, a nie na specjalnie zw
 >
 > **Co się zmienia:** *„Zmienia się to, że teraz odpowiadam za decyzje, także te niepopularne. Będę je podejmować tak samo wobec każdej osoby.”*
 >
-> **Co będę robić najpierw:** *„W ciągu najbliższych tygodni chcę porozmawiać z każdym z was osobno. Nie planuję rewolucji. Najpierw chcę usłyszeć, co działa, a co nas uwiera.”*
+> **Co będę robić najpierw:** *„W ciągu najbliższych tygodni chcę porozmawiać z każdą i z każdym z was osobno. Nie planuję rewolucji. Najpierw chcę usłyszeć, co działa, a co nas uwiera.”*
 >
 > **Prośba:** *„Jeśli coś zrobię źle, wolę o tym usłyszeć w cztery oczy niż na korytarzu od kogoś innego.”*
 
@@ -218,11 +218,11 @@ Krótko (3–5 minut), na stojąco, na zwykłej odprawie, a nie na specjalnie zw
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Co w naszym zespole działa dobrze i nie powinno zostać zepsute?                                | Chronisz to, co cenne. Pokazujesz szacunek do dotychczasowego dorobku.                              |
 | Co najbardziej utrudnia Ci pracę na co dzień?                                                  | Zbierasz realne problemy, nie teorie.                                                               |
-| Gdybyś była lub był na moim miejscu, co zmieniłabyś/zmieniłbyś w pierwszej kolejności?         | Angażujesz. Często padają świetne, proste pomysły.                                                  |
+| Gdybyś była lub był na moim miejscu, co zmieniłabyś/⁠zmieniłbyś w pierwszej kolejności?         | Angażujesz. Często padają świetne, proste pomysły.                                                  |
 | Jak chcesz się rozwijać w ciągu najbliższego roku?                                             | Poznajesz ambicje. To podstawa planu kompetencji.                                                   |
 | Jak wolisz dostawać informację zwrotną?                                                        | Dostosowujesz styl i dajesz sygnał, że feedback będzie normą.                                       |
-| Co powinnam/powinienem wiedzieć o Tobie, czego mogę nie wiedzieć, choć pracujemy razem od lat? | Często ujawnia ograniczenia (opieka nad rodzicem, drugi etat, zdrowie), ważne dla planowania pracy. |
-| Czego oczekujesz ode mnie jako przełożonej/przełożonego?                                       | Ustalasz kontrakt psychologiczny wprost.                                                            |
+| Co powinnam/⁠powinienem wiedzieć o Tobie, czego mogę nie wiedzieć, choć pracujemy razem od lat? | Często ujawnia ograniczenia (opieka nad rodzicem, drugi etat, zdrowie), ważne dla planowania pracy. |
+| Czego oczekujesz ode mnie jako przełożonej/⁠przełożonego?                                       | Ustalasz kontrakt psychologiczny wprost.                                                            |
 
 <aside class="callout">
 <p><strong>Wskazówka językowa</strong></p>
@@ -235,7 +235,7 @@ To najdelikatniejsza relacja pierwszych miesięcy. Rozczarowanie może przybrać
 
 1.  **Rozmowa w pierwszym tygodniu**, w cztery oczy, z inicjatywy Twojej, nie tej osoby.
 
-2.  **Uznaj fakt bez przepraszania:** *„Wiem, że też starałaś się o to stanowisko. Rozumiem, że to może być trudne. Zależy mi na Twojej pracy i doświadczeniu.”*
+2.  **Uznaj fakt bez przepraszania:** *„Wiem, że też starałaś/starałeś się o to stanowisko. Rozumiem, że to może być trudne. Zależy mi na Twojej pracy i doświadczeniu.”*
 
 3.  **Zapytaj o plany i ambicje:** czego ta osoba chce dalej, jakiej roli szuka.
 
@@ -261,7 +261,7 @@ Jeśli masz zastępcę lub zastępczynię, ta relacja zdecyduje o połowie Twoje
 
 #### Przykładowy podział obowiązków (do uzgodnienia)
 
-| **Obszar**                                                               | **Kierownik/kierowniczka**    | **Zastępca/zastępczyni**     | **Wspólnie**             |
+| **Obszar**                                                               | **Kierownik/⁠kierowniczka**    | **Zastępca/⁠zastępczyni**     | **Wspólnie**             |
 |--------------------------------------------------------------------------|-------------------------------|------------------------------|--------------------------|
 | Kontakt z przełożonymi, budżet, strategia                                | ✔                             |                              |                          |
 | Grafik i obsada                                                          |                               | ✔ (przygotowuje)             | Ostateczna akceptacja    |
@@ -278,7 +278,7 @@ Jeśli masz zastępcę lub zastępczynię, ta relacja zdecyduje o połowie Twoje
 
 2.  **Pełna informacja:** zastępca nie może dowiadywać się o decyzjach od zespołu. Jeśli wie mniej niż pracownicy, traci autorytet, a Ty sojusznika.
 
-3.  **Żadnego „rozgrywania”:** gdy ktoś przychodzi do Ciebie, bo zastępczyni lub zastępca odmówili, odsyłasz tę osobę z powrotem albo rozmawiacie we troje. Nigdy nie zmieniasz decyzji zastępcy za jego plecami.
+3.  **Żadnego „rozgrywania”:** gdy ktoś przychodzi do Ciebie, bo zastępczyni lub zastępca odmówili, odsyłasz tę osobę z powrotem albo rozmawiacie we troje. Nigdy nie zmieniasz decyzji zastępcy za plecami tej osoby.
 
 4.  **Spisany podział ról**, przedstawiony zespołowi. Ludzie muszą wiedzieć, z czym iść do kogo.
 
@@ -323,7 +323,7 @@ Stan prawny sprawdzony na **4 października 2026 r.** Numery Dziennika Ustaw pod
 </tr>
 <tr>
 <th>Prawo pracy</th>
-<th>Kodeks pracy, aktualny tekst jednolity <strong>Dz.U. 2026 poz. 1245</strong> (stan prawny na 27 sierpnia 2026 r.).</th>
+<th>Kodeks pracy, aktualny tekst jednolity <strong>Dz.U. 2026 poz. 1245</strong>.</th>
 <th>To podstawowy akt dla każdej decyzji kadrowej: czas pracy, urlopy, dyscyplina, rozstania.</th>
 </tr>
 <tr>
@@ -371,7 +371,7 @@ Na co dzień najważniejszym „prawem” nie są ustawy, ale dokumenty wewnętr
 
 | **Zagadnienie**     | **Przepis**             | **W praktyce**                                                                                                                                                                                                                                           |
 |---------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Kto musi go mieć    | Art. 104 § 1 KP         | Pracodawca zatrudniający co najmniej 50 pracowników, jeśli nie obejmuje ich układ zbiorowy pracy. Zatrudniający 20–49 osób: na wniosek związku zawodowego.                                                                                               |
+| Kto musi go mieć    | Art. 104 § 1 KP         | Pracodawca zatrudniający co najmniej 50 pracowników, jeśli nie obejmuje ich układ zbiorowy pracy. Zatrudniający 20–⁠49 osób: na wniosek związku zawodowego.                                                                                               |
 | Kto go ustala       | Art. 104² KP            | Pracodawca **w uzgodnieniu z zakładową organizacją związkową**. Gdy uzgodnienia nie ma lub nie ma związku, pracodawca sam. Dlatego każda zmiana regulaminu to rozmowa ze związkami (rozdz. 6).                                                           |
 | Od kiedy obowiązuje | Art. 104³ § 1 KP        | Po upływie 2 tygodni od podania do wiadomości pracowników.                                                                                                                                                                                               |
 | Nowy pracownik      | Art. 104³ § 2 KP        | Musi poznać treść regulaminu **przed rozpoczęciem pracy**. Włącz to do wdrożenia nowych osób.                                                                                                                                                            |
@@ -425,16 +425,16 @@ W polskim prawie **nie ma jednej ustawy o konflikcie interesów** pracowników. 
 
 #### Typowe konflikty w każdym zespole
 
-| **Sytuacja**                                   | **Co wolno**                                                                         | **Czego nie wolno, co zrobić**                                                                                                                                                     |
-|------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Przyjaźnie z dawnych lat w zespole             | Utrzymywać relacje, spotykać się prywatnie.                                          | Decydować o grafiku, urlopach, szkoleniach i premiach inaczej niż według jawnych zasad. Przy ocenie przyjaciela lub przyjaciółki poproś zastępcę albo przełożonego o drugą opinię. |
-| Krewny lub partner w zespole albo w rekrutacji | Pracować u tego samego pracodawcy.                                                   | Być bezpośrednim przełożonym bliskiej osoby ani uczestniczyć w jej rekrutacji, ocenie czy awansie. Zgłoś to przełożonemu i ustal inną ścieżkę podległości.                         |
-| Związek uczuciowy z osobą z zespołu            | Ma prawo się zdarzyć.                                                                | Ukrywać go. Zgłoś przełożonemu i doprowadź do zmiany podległości. Nigdy nie inicjuj takiej relacji z osobą sobie podległą: zależność służbowa podważa dobrowolność.                |
-| Twoja dodatkowa praca u innego podmiotu        | Dodatkowe zatrudnienie, jeśli nie wiąże Cię zakaz konkurencji ani zasady wewnętrzne. | Kierować klientów do „swojej” firmy, wykorzystywać informacje pracodawcy. Ujawnij dodatkowe zatrudnienie przełożonemu na piśmie.                                                   |
-| Drugi etat pracowników                         | Pracownicy mogą dorabiać.                                                            | Układać grafik „pod” drugi etat jednych kosztem drugich. Rozmawiaj o zmęczeniu, jeśli wpływa na bezpieczeństwo i jakość pracy.                                                     |
-| Zakupy i kontakty z dostawcami                 | Rzetelnie opisać potrzeby zespołu, uczestniczyć w oficjalnych prezentacjach.         | Pisać wymagania „pod” jedną firmę, przyjmować prezenty, kolacje czy wyjazdy od dostawców ubiegających się o zamówienie.                                                            |
-| Szkolenia i konferencje sponsorowane           | Udział zgodny z procedurą, za zgodą przełożonego.                                    | Decydować o wyjeździe dla siebie lub wybranych osób z pominięciem jawnych kryteriów.                                                                                               |
-| Członkostwo w związku zawodowym                | Pozostać członkiem.                                                                  | Występować po obu stronach w tej samej sprawie (rozdz. 6.3).                                                                                                                       |
+| **Sytuacja**                                                      | **Co wolno**                                                                         | **Czego nie wolno, co zrobić**                                                                                                                                                     |
+|-------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Przyjaźnie z dawnych lat w zespole                                | Utrzymywać relacje, spotykać się prywatnie.                                          | Decydować o grafiku, urlopach, szkoleniach i premiach inaczej niż według jawnych zasad. Przy ocenie przyjaciela lub przyjaciółki poproś zastępcę albo przełożonego o drugą opinię. |
+| Krewny, krewna, partner lub partnerka w zespole albo w rekrutacji | Pracować u tego samego pracodawcy.                                                   | Być bezpośrednim przełożonym bliskiej osoby ani uczestniczyć w jej rekrutacji, ocenie czy awansie. Zgłoś to przełożonemu i ustal inną ścieżkę podległości.                         |
+| Związek uczuciowy z osobą z zespołu                               | Ma prawo się zdarzyć.                                                                | Ukrywać go. Zgłoś przełożonemu i doprowadź do zmiany podległości. Nigdy nie inicjuj takiej relacji z osobą sobie podległą: zależność służbowa podważa dobrowolność.                |
+| Twoja dodatkowa praca u innego podmiotu                           | Dodatkowe zatrudnienie, jeśli nie wiąże Cię zakaz konkurencji ani zasady wewnętrzne. | Kierować klientów do „swojej” firmy, wykorzystywać informacje pracodawcy. Ujawnij dodatkowe zatrudnienie przełożonemu na piśmie.                                                   |
+| Drugi etat pracowników                                            | Pracownicy mogą dorabiać.                                                            | Układać grafik „pod” drugi etat jednych kosztem drugich. Rozmawiaj o zmęczeniu, jeśli wpływa na bezpieczeństwo i jakość pracy.                                                     |
+| Zakupy i kontakty z dostawcami                                    | Rzetelnie opisać potrzeby zespołu, uczestniczyć w oficjalnych prezentacjach.         | Pisać wymagania „pod” jedną firmę, przyjmować prezenty, kolacje czy wyjazdy od dostawców ubiegających się o zamówienie.                                                            |
+| Szkolenia i konferencje sponsorowane                              | Udział zgodny z procedurą, za zgodą przełożonego.                                    | Decydować o wyjeździe dla siebie lub wybranych osób z pominięciem jawnych kryteriów.                                                                                               |
+| Członkostwo w związku zawodowym                                   | Pozostać członkiem.                                                                  | Występować po obu stronach w tej samej sprawie (rozdz. 6.3).                                                                                                                       |
 
 Typowe konflikty w konkretnej branży: \[część branżowa, rozdz. 6\].
 
@@ -463,7 +463,7 @@ Typowe konflikty w konkretnej branży: \[część branżowa, rozdz. 6\].
 
 <aside class="callout">
 <p><strong>Kontrowersyjnie: czy osoba kierująca może mieć przyjaciół w zespole?</strong></p>
-<p>Jedni twierdzą, że przyjaźń z podwładnym to trwały konflikt interesów i należy ją „zamrozić”. Inni, że w zespole, w którym ludzie znają się latami, zerwanie więzi zniszczy zaufanie bardziej niż ryzyko faworyzowania. Ten podręcznik zajmuje stanowisko pośrednie: przyjaźń jest dopuszczalna, przywileje nie. Kluczem są jawne kryteria i wyłączanie się z decyzji, w których bliskość mogłaby zaważyć (rozdz. 12).</p>
+<p>Jedni twierdzą, że przyjaźń z osobą podwładną to trwały konflikt interesów i należy ją „zamrozić”. Inni, że w zespole, w którym ludzie znają się latami, zerwanie więzi zniszczy zaufanie bardziej niż ryzyko faworyzowania. Ten przewodnik zajmuje stanowisko pośrednie: przyjaźń jest dopuszczalna, przywileje nie. Kluczem są jawne kryteria i wyłączanie się z decyzji, w których bliskość mogłaby zaważyć (rozdz. 12).</p>
 </aside>
 
 ### 4.5. Sektor publiczny a prywatny: co się zmienia
@@ -514,7 +514,7 @@ U większości pracodawców wypowiedzenie podpisuje zarząd, dyrektor lub osoba 
 | Pouczenie o prawie odwołania do sądu pracy                                                                                  | Art. 30 § 5 KP; termin 21 dni: art. 264 KP    | Brak pouczenia lub błędny termin.                                             |
 | Zawiadomienie związku o zamiarze wypowiedzenia (umowa na czas nieokreślony lub określony). Związek ma 5 dni na zastrzeżenia | Art. 38 KP                                    | Wręczenie wypowiedzenia przed upływem 5 dni albo zawiadomienie bez przyczyny. |
 | Zapytanie związku, czy broni pracownika niezrzeszonego. Odpowiedź w 5 dni                                                   | Art. 30 ust. 2¹ ustawy o związkach zawodowych | Założenie „przecież nie jest w związku”.                                      |
-| Przy art. 52: opinia związku (3 dni) i termin 1 miesiąca                                                                    | Art. 52 § 2–3 KP                              | Zwlekanie z decyzją.                                                          |
+| Przy art. 52: opinia związku (3 dni) i termin 1 miesiąca                                                                    | Art. 52 § 2–⁠3 KP                              | Zwlekanie z decyzją.                                                          |
 | Zgoda zarządu związku na wypowiedzenie działaczowi objętemu ochroną                                                         | Art. 32 ustawy o związkach zawodowych         | Nieświadomość, że pracownik jest chroniony.                                   |
 
 ### 5.4. Kto jest szczególnie chroniony
@@ -544,7 +544,7 @@ U większości pracodawców wypowiedzenie podpisuje zarząd, dyrektor lub osoba 
 
 #### Rozmowa wręczenia: przykładowy przebieg
 
-> **Wprost:** *„Zaprosiłam/zaprosiłem Cię, bo pracodawca podjął decyzję o wypowiedzeniu Ci umowy o pracę. Pani z kadr jest z nami, żeby wyjaśnić formalności.”*
+> **Wprost:** *„Zaprosiłam/zaprosiłem Cię, bo pracodawca podjął decyzję o wypowiedzeniu Ci umowy o pracę. \[Imię\] z kadr jest z nami, żeby wyjaśnić formalności.”*
 >
 > **Przyczyna, krótko:** *„Przyczyna jest opisana w piśmie. Rozmawialiśmy o niej \[daty rozmów\].”*
 >
@@ -554,7 +554,7 @@ U większości pracodawców wypowiedzenie podpisuje zarząd, dyrektor lub osoba 
 
 ### 5.6. Gdy rozstajesz się z kimś z „dawnego” zespołu
 
-Rozmowa z osobą, z którą przez lata pracowało się ramię w ramię, będzie jedną z najtrudniejszych w Twojej karierze. Nie oddawaj jej w całości kadrom ani zastępcy, ale też nie prowadź jej sam lub sama. Przygotuj się z coachem lub mentorem, a po wszystkim daj sobie czas na odreagowanie.
+Rozmowa z osobą, z którą przez lata pracowało się ramię w ramię, będzie jedną z najtrudniejszych w Twojej karierze. Nie oddawaj jej w całości kadrom ani zastępcy, ale też nie prowadź jej sam lub sama. Przygotuj się z mentorem, mentorką lub coachem, a po wszystkim daj sobie czas na odreagowanie.
 
 Szczególne przyczyny rozstania w danej branży (np. utrata prawa wykonywania zawodu, uprawnień, licencji): \[część branżowa, rozdz. 2\].
 
@@ -597,7 +597,7 @@ Awans nie odbiera Ci prawa do członkostwa, ale zmienia Twoją sytuację zasadni
 
 | **Sytuacja**                                                             | **Jako osoba kierująca**                                 | **Jako członek związku**                          | **Rekomendacja**                                                                                                                           |
 |--------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Związek opiniuje wypowiedzenie Twojego podwładnego.                      | Inicjujesz i uzasadniasz decyzję.                        | Twój związek ocenia, czy była słuszna.            | Nie uczestniczysz w obradach związku nad tą sprawą. Swoje stanowisko przedstawiasz wyłącznie jako przedstawiciel pracodawcy.               |
+| Związek opiniuje wypowiedzenie Twojego podwładnego.                      | Inicjujesz i uzasadniasz decyzję.                        | Twój związek ocenia, czy była słuszna.            | Nie uczestniczysz w obradach związku nad tą sprawą. Swoje stanowisko przedstawiasz wyłącznie w imieniu pracodawcy.                         |
 | Uzgadnianie regulaminu pracy lub zasad grafiku.                          | Znasz realia organizacyjne i koszty.                     | Znasz oczekiwania kolegów i koleżanek.            | Dziel się wiedzą merytoryczną z obiema stronami jawnie, ale nie negocjuj po obu stronach stołu.                                            |
 | Negocjacje płacowe, spór zbiorowy.                                       | Zarząd może oczekiwać Twojego udziału po swojej stronie. | Koledzy oczekują, że „nasz człowiek” coś załatwi. | Powiedz przełożonym wprost o konflikcie i poproś o wyłączenie z zespołu negocjacyjnego. Zespołowi powiedz, że Twój wpływ jest ograniczony. |
 | Poufne informacje od zarządu (np. plany restrukturyzacji).               | Obowiązek poufności.                                     | Pokusa „ostrzeżenia swoich”.                      | Zasada dwóch kapeluszy: informacji z jednej roli nie przenosisz do drugiej. W obie strony.                                                 |
@@ -611,7 +611,7 @@ Awans nie odbiera Ci prawa do członkostwa, ale zmienia Twoją sytuację zasadni
 | Pozostaję członkiem i pełnię funkcję (np. w zarządzie)                                     | Realny wpływ na sprawy zawodu, ochrona prawna.                              | Trwały konflikt interesów, ryzyko utraty zaufania obu stron, ochrona odbierana jako „parasol”. **Ta opcja jest najtrudniejsza do obrony.** |
 | Występuję ze związku                                                                       | Czysta sytuacja formalna.                                                   | Może być odczytane jako „przejście na drugą stronę”. Tracisz kanał rozmowy z kolegami i wsparcie w sprawach własnych.                      |
 
-Rekomendujemy opcję pierwszą: pozostań członkiem, ale zrezygnuj z funkcji i wyłączaj się z każdej sprawy, w której występujesz jako przedstawiciel pracodawcy. Decyzję podejmij w pierwszym miesiącu, zanim pojawi się pierwsza sporna sprawa.
+Rekomendujemy opcję pierwszą: pozostań członkiem, ale zrezygnuj z funkcji i wyłączaj się z każdej sprawy, w której występujesz w imieniu pracodawcy. Decyzję podejmij w pierwszym miesiącu, zanim pojawi się pierwsza sporna sprawa.
 
 ### 6.4. Scenariusze rozmów
 
@@ -623,7 +623,7 @@ Rekomendujemy opcję pierwszą: pozostań członkiem, ale zrezygnuj z funkcji i 
 
 > **Ty:** *„Dziękuję za zaufanie. Muszę jednak powiedzieć otwarcie, że należę do jednej z organizacji, które będą stroną tych rozmów. Mogę dostarczyć wszystkie dane i analizy, ale w samych negocjacjach moja obecność osłabiłaby wiarygodność obu stron.”*
 
-#### Przewodniczący związku interweniuje w sprawie grafiku
+#### Przewodnicząca lub przewodniczący związku interweniuje w sprawie grafiku
 
 > **Ty:** *„Dobrze, że przychodzisz z tym do mnie. Zasady grafiku są spisane. Pokażę Ci, jak je zastosowano w tym przypadku. Jeśli uważasz, że zasady są złe, porozmawiajmy o ich zmianie dla wszystkich, a nie o wyjątku dla jednej osoby.”*
 
@@ -682,13 +682,13 @@ Zadanie przekazujesz razem z **poziomem** i **terminem kontroli**. Ta sama osoba
 
 | **Częstotliwość**                                          | **Forma**                                                         | **Czas**  | **Cel**                                              |
 |------------------------------------------------------------|-------------------------------------------------------------------|-----------|------------------------------------------------------|
-| Codziennie                                                 | Krótki obchód stanowisk, przekazanie zmiany lub poranne spotkanie | 10–15 min | Bieżące problemy, sprzęt, obłożenie.                 |
+| Codziennie                                                 | Krótki obchód stanowisk, przekazanie zmiany lub poranne spotkanie | 10–⁠15 min | Bieżące problemy, sprzęt, obłożenie.                 |
 | Co tydzień                                                 | Spotkanie z liderami lub koordynatorami (jeśli są)                | 30 min    | Obsada, problemy, decyzje do podjęcia.               |
 | Co tydzień                                                 | Odprawa zespołu (przy pracy zmianowej w 2 terminach)              | 15 min    | Informacje z góry, sprawy organizacyjne, docenienia. |
 | Co 2 tygodnie                                              | Rozmowa 1:1 z każdym liderem lub zastępcą                         | 30 min    | Wsparcie, delegowane zadania, rozwój.                |
-| Co miesiąc (mały zespół) lub co 2–3 miesiące (duży zespół) | Rozmowa 1:1 z każdym pracownikiem                                 | 20–30 min | Rozwój, samopoczucie, przeszkody.                    |
+| Co miesiąc (mały zespół) lub co 2–⁠3 miesiące (duży zespół) | Rozmowa 1:1 z każdym pracownikiem                                 | 20–⁠30 min | Rozwój, samopoczucie, przeszkody.                    |
 | Co kwartał                                                 | Przegląd z przełożonym i dane zespołu                             | 60 min    | Wskaźniki, potrzeby, plan.                           |
-| Raz w roku                                                 | Rozmowa rozwojowa lub ocena okresowa                              | 45–60 min | Podsumowanie roku, cele, szkolenia.                  |
+| Raz w roku                                                 | Rozmowa rozwojowa lub ocena okresowa                              | 45–⁠60 min | Podsumowanie roku, cele, szkolenia.                  |
 
 Przy kilkunastu lub kilkudziesięciu osobach comiesięczne 1:1 ze wszystkimi to wiele godzin miesięcznie, realne tylko wtedy, gdy masz chroniony czas zarządczy. Dlatego w większych zespołach łącz częste rozmowy z liderami z rzadszymi, ale regularnymi rozmowami z każdym pracownikiem. To nie jest „strata czasu na właściwą pracę”. To najważniejsza część Twojej nowej pracy.
 
@@ -821,7 +821,7 @@ Pierwsze spotkanie z każdą kluczową osobą to inwestycja na lata: poznajecie 
 <th><strong>Co ustalić</strong></th>
 </tr>
 <tr>
-<th>Tydzień 0–2</th>
+<th>Tydzień 0–⁠2</th>
 <th>Bezpośredni przełożony</th>
 <th><ul>
 <li><p>Zakres Twoich decyzji: grafik, urlopy, nadgodziny, rekrutacja, szkolenia, budżet, zakupy.</p></li>
@@ -834,25 +834,25 @@ Pierwsze spotkanie z każdą kluczową osobą to inwestycja na lata: poznajecie 
 <th>Notatka z ustaleniami. Stały termin spotkań (np. co 2 tygodnie przez pierwsze 3 miesiące). Forma raportowania.</th>
 </tr>
 <tr>
-<th>Tydzień 0–2</th>
+<th>Tydzień 0–⁠2</th>
 <th>Poprzedni kierownik lub kierowniczka (jeśli to możliwe)</th>
 <th><ul>
 <li><p>Otwarte sprawy i obietnice złożone pracownikom.</p></li>
 <li><p>Trwające sprawy: skargi, postępowania wyjaśniające, kary porządkowe.</p></li>
 <li><p>Terminy: przeglądy, audyty, kontrole, sprawozdania.</p></li>
 <li><p>Dokumentacja, dostępy.</p></li>
-<li><p>„Co zrobiłabyś/zrobiłbyś inaczej, zaczynając od nowa?”</p></li>
+<li><p>„Co zrobiłabyś/⁠zrobiłbyś inaczej, zaczynając od nowa?”</p></li>
 </ul></th>
 <th>Lista przekazanych spraw z terminami.</th>
 </tr>
 <tr>
-<th>Tydzień 0–2</th>
+<th>Tydzień 0–⁠2</th>
 <th>Zastępca lub zastępczyni</th>
 <th>Rozmowa przed ogłoszeniem awansu i podział obowiązków (rozdz. 3.5).</th>
 <th>Spisany podział ról, stały termin spotkań.</th>
 </tr>
 <tr>
-<th>Tydzień 0–2</th>
+<th>Tydzień 0–⁠2</th>
 <th>Kadry i płace</th>
 <th><ul>
 <li><p>System i okres rozliczeniowy czasu pracy, ewidencja, nadgodziny.</p></li>
@@ -864,7 +864,7 @@ Pierwsze spotkanie z każdą kluczową osobą to inwestycja na lata: poznajecie 
 <th>Osoba kontaktowa, kalendarz terminów kadrowych.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>Klienci wewnętrzni i działy współpracujące</th>
 <th><ul>
 <li><p>Co działa, co frustruje obie strony.</p></li>
@@ -874,7 +874,7 @@ Pierwsze spotkanie z każdą kluczową osobą to inwestycja na lata: poznajecie 
 <th>Osoby kontaktowe, przegląd współpracy co kwartał.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>IT, dział techniczny</th>
 <th><ul>
 <li><p>Stan sprzętu i systemów, historia awarii.</p></li>
@@ -884,7 +884,7 @@ Pierwsze spotkanie z każdą kluczową osobą to inwestycja na lata: poznajecie 
 <th>Procedura zgłaszania awarii znana całemu zespołowi.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>BHP i lekarz medycyny pracy</th>
 <th><ul>
 <li><p>Ocena ryzyka zawodowego, wypadki przy pracy.</p></li>
@@ -894,25 +894,25 @@ Pierwsze spotkanie z każdą kluczową osobą to inwestycja na lata: poznajecie 
 <th>Terminy szkoleń i badań w kalendarzu zespołu.</th>
 </tr>
 <tr>
-<th>Miesiąc 2–3</th>
+<th>Miesiąc 2–⁠3</th>
 <th>Inspektor Ochrony Danych</th>
 <th>Zasady prowadzenia notatek o pracownikach, uprawnienia w systemach.</th>
 <th>Akceptacja zakresu danych, które prowadzisz o zespole.</th>
 </tr>
 <tr>
-<th>Miesiąc 2–3</th>
+<th>Miesiąc 2–⁠3</th>
 <th>Radca prawny, osoba ds. zgodności</th>
 <th>Konflikt interesów, prezenty, dodatkowe zatrudnienie, sygnaliści, nowe przepisy antymobbingowe.</th>
 <th>Ścieżka szybkiej konsultacji w sprawach pilnych.</th>
 </tr>
 <tr>
-<th>Miesiąc 2–3</th>
+<th>Miesiąc 2–⁠3</th>
 <th>Liderzy organizacji związkowych</th>
 <th>Przedstawienie siebie (i ewentualnej podwójnej roli), bieżące spory, zasady wymiany informacji.</th>
 <th>Kanał kontaktu i zasada wczesnego informowania.</th>
 </tr>
 <tr>
-<th>Miesiąc 2–3</th>
+<th>Miesiąc 2–⁠3</th>
 <th>Mentor lub mentorka spoza zespołu</th>
 <th>Jak w tej organizacji „naprawdę” załatwia się sprawy; Twoje trudności jako nowej osoby kierującej (rozdz. 13).</th>
 <th>Stałe spotkanie raz w miesiącu.</th>
@@ -939,18 +939,18 @@ Sytuacje uniwersalne, które spotykają prawie każdą osobę awansowaną z zesp
 
 | **Sytuacja**                                                                  | **Typowa pułapka**                                     | **Rekomendowane działanie**                                                                                                                             |
 |-------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Najbliższa koleżanka prosi o wolne w święta „po starej znajomości”.           | Zgoda „ten jeden raz” i utrata wiarygodności.          | Odwołaj się do jawnych zasad grafiku. Powiedz wprost: „Właśnie dlatego, że się przyjaźnimy, muszę być wobec Ciebie tak samo konsekwentna/konsekwentny.” |
+| Najbliższa koleżanka prosi o wolne w święta „po starej znajomości”.           | Zgoda „ten jeden raz” i utrata wiarygodności.          | Odwołaj się do jawnych zasad grafiku. Powiedz wprost: „Właśnie dlatego, że się przyjaźnimy, muszę być wobec Ciebie tak samo konsekwentna/⁠konsekwentny.” |
 | Osoba, która liczyła na awans, publicznie podważa Twoje decyzje.              | Ignorowanie albo konfrontacja przy zespole.            | Rozmowa 1:1: nazwij zachowanie (SBI), uznaj rozczarowanie, zaproponuj realną rolę, ustal granicę (rozdz. 3.4).                                          |
 | Doświadczona osoba (20 lat stażu) nie chce uczyć się nowego systemu.          | Odpuszczenie z szacunku albo presja.                   | Zrozum lęk (często: obawa przed utratą statusu eksperta). Daj czas, mentora z zespołu, a jej doświadczenie wykorzystaj gdzie indziej.                   |
 | Ktoś z innego działu krzyczy na Twojego pracownika przy klientach.            | Milczenie albo awantura na korytarzu.                  | Zabierz pracownika z sytuacji, wesprzyj go. Potem rozmowa z tą osobą w cztery oczy, ewentualnie z jej przełożonym. Pokaż zespołowi, że za nim stoisz.   |
-| Ktoś zgłasza się z własnym błędem.                                            | Pierwsza reakcja: „Jak mogłeś?”                        | Podziękuj za zgłoszenie, ogranicz skutki, uruchom procedurę, analizuj system (rozdz. 9).                                                                |
+| Ktoś zgłasza się z własnym błędem.                                            | Pierwsza reakcja: „Jak mogłaś/⁠mogłeś?”                 | Podziękuj za zgłoszenie, ogranicz skutki, uruchom procedurę, analizuj system (rozdz. 9).                                                                |
 | Masz sygnały, że ktoś przychodzi do pracy pod wpływem alkoholu.               | Udawanie, że nic się nie dzieje, „bo to dobry kolega”. | Postępuj zgodnie z procedurą pracodawcy, zaangażuj przełożonego i kadry. Działaj natychmiast, z szacunkiem.                                             |
-| Zespół narzeka na decyzję zarządu, z którą też się nie zgadzasz.              | „Ja też uważam, że to bez sensu, ale muszę.”           | Przekaż decyzję i jej uzasadnienie. Możesz powiedzieć, że zgłaszasz lub zgłosiłeś/zgłosiłaś zastrzeżenia. Nie wchodź w rolę „ofiary razem z zespołem”.  |
+| Zespół narzeka na decyzję zarządu, z którą też się nie zgadzasz.              | „Ja też uważam, że to bez sensu, ale muszę.”           | Przekaż decyzję i jej uzasadnienie. Możesz powiedzieć, że zgłaszasz lub zgłosiłeś/⁠zgłosiłaś zastrzeżenia. Nie wchodź w rolę „ofiary razem z zespołem”.  |
 | Dwie osoby nie rozmawiają ze sobą od miesięcy.                                | Układanie grafiku tak, by się nie spotykały.           | Rozmowa z każdą osobno, potem mediacja. Jasne oczekiwanie: współpraca zawodowa nie jest opcjonalna.                                                     |
 | Najlepsza osoba w zespole dostaje ofertę od konkurencji.                      | Panika albo obrażenie się.                             | Rozmowa: co ją zatrzymuje, co odpycha? Zrób, co w Twojej mocy (rozwój, grafik, zakres zadań). Jeśli odejdzie, rozstańcie się dobrze.                    |
 | Ktoś regularnie bierze zwolnienie lekarskie w poniedziałki.                   | Insynuacje przy zespole.                               | Nie oceniaj zdrowia. Rozmowa o wpływie nieobecności na zespół. W razie wątpliwości procedury kadrowe.                                                   |
 | Zespół oczekuje, że „załatwisz” podwyżki.                                     | Obietnice bez pokrycia.                                | Bądź transparentna lub transparentny co do swojego wpływu. Zbierz dane (rynek, obciążenie), przedstaw je przełożonemu, informuj o wynikach.             |
-| Czujesz, że nie dajesz rady, i wracasz do pracy specjalistycznej „na chwilę”. | Ucieczka w to, co znasz.                               | Sygnał ostrzegawczy. Przejrzyj kalendarz, porozmawiaj z mentorem lub coachem (rozdz. 13).                                                               |
+| Czujesz, że nie dajesz rady, i wracasz do pracy specjalistycznej „na chwilę”. | Ucieczka w to, co znasz.                               | Sygnał ostrzegawczy. Przejrzyj kalendarz, porozmawiaj z mentorem, mentorką lub coachem (rozdz. 13).                                                     |
 
 ## 12. Kontrowersyjne tezy do przemyślenia
 
@@ -959,7 +959,7 @@ W literaturze i praktyce nie ma jednej słusznej odpowiedzi na wiele dylematów 
 | **Teza**                                                                    | **Argumenty za**                                                                               | **Argumenty przeciw**                                                                                  | **Wskazówka**                                                           |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | „Nie możesz przyjaźnić się z podwładnymi.”                                  | Przyjaźń zaburza obiektywizm. Zespół widzi faworyzowanie, nawet jeśli go nie ma.               | W małym zespole zerwanie relacji jest nienaturalne i niszczy zaufanie. Bliskość ułatwia szczerość.     | Zachowaj ciepło, zmień kanały decyzji. Przyjaźń tak, przywileje nie.    |
-| „Osoba kierująca powinna nadal regularnie wykonywać pracę specjalistyczną.” | Zachowuje kompetencje, rozumie realia, łata braki kadrowe, buduje szacunek.                    | Ucieka w strefę komfortu. Zarządzanie dzieje się „po godzinach”. Zespół nie uczy się samodzielności.   | Zaplanuj świadomie (np. 20–30% czasu) i chroń czas zarządczy.           |
+| „Osoba kierująca powinna nadal regularnie wykonywać pracę specjalistyczną.” | Zachowuje kompetencje, rozumie realia, łata braki kadrowe, buduje szacunek.                    | Ucieka w strefę komfortu. Zarządzanie dzieje się „po godzinach”. Zespół nie uczy się samodzielności.   | Zaplanuj świadomie (np. 20–⁠30% czasu) i chroń czas zarządczy.           |
 | „Przez pierwsze 90 dni niczego nie zmieniaj.”                               | Unikasz błędów z niepełnej wiedzy, okazujesz szacunek.                                         | Zespół, który zna Cię od lat, czeka na konkret. Bierność odczyta jako słabość.                         | Zmieniaj drobiazgi szybko, systemy powoli.                              |
 | „Grafik i nadgodziny powinny być w pełni jawne.”                            | Koniec plotek o faworyzowaniu, wspólna odpowiedzialność.                                       | Ryzyko ujawnienia prywatnych powodów (zdrowie, rodzina), presji grupowej.                              | Jawne zasady i liczby, poufne uzasadnienia.                             |
 | „Najlepszy specjalista nie powinien zostawać kierownikiem.”                 | Organizacja traci świetnego specjalistę i zyskuje przeciętnego menedżera (tzw. zasada Petera). | Osoba kierująca bez wiarygodności merytorycznej nie ma autorytetu w zespole ekspertów.                 | Pytanie nie brzmi „czy”, lecz „czy chcesz nauczyć się nowego zawodu”.   |
@@ -989,7 +989,7 @@ Pierwszy rok kierowania to jeden z najbardziej stresujących okresów kariery. D
 | **Źródło wsparcia**    | **Jak z niego skorzystać**                                                                                                                                      |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Mentor lub mentorka    | Doświadczona osoba kierująca z innej komórki organizacji. Spotkanie raz w miesiącu.                                                                             |
-| Coach                  | Proces coachingowy (np. 6–8 sesji w pierwszym półroczu): styl kierowania, trudne rozmowy, granice. Zapytaj, czy pracodawca finansuje rozwój kadry kierowniczej. |
+| Coach                  | Proces coachingowy (np. 6–⁠8 sesji w pierwszym półroczu): styl kierowania, trudne rozmowy, granice. Zapytaj, czy pracodawca finansuje rozwój kadry kierowniczej. |
 | Sieć rówieśnicza       | Inne osoby kierujące podobnymi zespołami, w organizacji i poza nią: wymiana praktyk, konferencje, stowarzyszenia zawodowe.                                      |
 | Szkolenia menedżerskie | Podstawy zarządzania zespołem, prawo pracy dla przełożonych, komunikacja, zarządzanie konfliktem.                                                               |
 | Granice                | Stała godzina zakończenia pracy kilka razy w tygodniu. Telefon służbowy tylko w ustalonym zakresie.                                                             |
@@ -1044,10 +1044,10 @@ Uzupełnienie dla Twojej branży: \[część branżowa, rozdz. 8\].
 
 Oceń każde zdanie w skali 1–5. Pytania branżowe: \[część branżowa, rozdz. 8\].
 
-| **Stwierdzenie**                                                                                     | **Po 30 dniach (1–5)** | **Po 90 dniach (1–5)** |
+| **Stwierdzenie**                                                                                     | **Po 30 dniach (1–⁠5)** | **Po 90 dniach (1–⁠5)** |
 |------------------------------------------------------------------------------------------------------|------------------------|------------------------|
 | Znam oczekiwania mojego przełożonego.                                                                |                        |                        |
-| Odbyłam/odbyłem rozmowę 1:1 z każdą osobą w zespole.                                                 |                        |                        |
+| Odbyłam/⁠odbyłem rozmowę 1:1 z każdą osobą w zespole.                                                 |                        |                        |
 | Mam spisany podział obowiązków z zastępcą (lub osobami zastępującymi), który zna zespół.             |                        |                        |
 | Zastępca lub zastępczyni mówi mi wprost, gdy się ze mną nie zgadza.                                  |                        |                        |
 | Stosuję te same zasady wobec wszystkich, także przyjaciół.                                           |                        |                        |
@@ -1057,7 +1057,7 @@ Oceń każde zdanie w skali 1–5. Pytania branżowe: \[część branżowa, rozd
 | Wiem, jak łączę rolę osoby kierującej z członkostwem w związku (jeśli dotyczy), i zespół też to wie. |                        |                        |
 | Wyłączam się z decyzji, w których mam interes prywatny lub bliską relację.                           |                        |                        |
 | Mam chroniony czas na zarządzanie.                                                                   |                        |                        |
-| Spotkałam/spotkałem się osobiście z kluczowymi osobami z rozdz. 10.2.                                |                        |                        |
+| Spotkałam/⁠spotkałem się osobiście z kluczowymi osobami z rozdz. 10.2.                                |                        |                        |
 | Mam osobę, z którą mogę szczerze porozmawiać o swojej roli.                                          |                        |                        |
 
 ### 14.4. Wzór oświadczenia o konflikcie interesów
@@ -1148,7 +1148,7 @@ W tej części większość przykładów pochodzi z jednej sytuacji. Dzięki tem
 <p><strong>Bohater przykładu</strong></p>
 <p>Elektroradiolog lub elektroradiolożka awansowana na kierownika lub kierowniczkę zakładu diagnostyki obrazowej (ZDO) szpitala wojewódzkiego. Wcześniej nigdy nie kierowała zespołem.</p>
 <ul>
-<li><p><strong>Zespół:</strong> 24 osoby w kilku pracowniach (RTG, TK, MR, mammografia, angiografia), praca zmianowa i dyżurowa.</p></li>
+<li><p><strong>Zespół:</strong> 24 osoby (bez osoby kierującej) w kilku pracowniach (RTG, TK, MR, mammografia, angiografia), praca zmianowa i dyżurowa.</p></li>
 <li><p><strong>Zastępczyni:</strong> jest, ma dobre relacje z nową osobą kierującą i akceptuje awans.</p></li>
 <li><p><strong>Związek zawodowy:</strong> osoba kierująca jest członkiem związku zawodowego.</p></li>
 <li><p><strong>Założenie robocze:</strong> kierownik lub kierowniczka zakładu odpowiada za elektroradiologów i personel pomocniczy, a nie za lekarzy radiologów. Jeśli w Twoim szpitalu kierujesz także lekarzami, zwróć szczególną uwagę na M5 i M7.</p></li>
@@ -1194,8 +1194,8 @@ W tej części większość przykładów pochodzi z jednej sytuacji. Dzięki tem
 <tr>
 <th>Czas pracy w podmiotach leczniczych</th>
 <th><p>Art. 93 ust. 1 ustawy o działalności leczniczej (t.j. Dz.U. 2026 poz. 156): czas pracy nie może przekraczać <strong>7 godz. 35 min na dobę i przeciętnie 37 godz. 55 min tygodniowo</strong> w przeciętnie 5-dniowym tygodniu pracy. Okres rozliczeniowy do 3 miesięcy (ust. 4).</p>
-<p>Skrócona norma 5 godz./25 godz. dla pracowni radiologii obowiązywała przejściowo od 1 lipca 2011 r. do 1 lipca 2014 r. (art. 214).</p>
-<p>Wyrok TK z 29 września 2015 r., <strong>sygn. K 14/14</strong> (Dz.U. 2015 poz. 1553), na wniosek Ogólnopolskiego Związku Zawodowego Techników Medycznych Elektroradiologii, uznał art. 93 ust. 1 i art. 94 ust. 1 za zgodne z Konstytucją.</p></th>
+<p>Skrócona norma 5 godz./⁠25 godz. dla pracowni radiologii obowiązywała przejściowo od 1 lipca 2011 r. do 1 lipca 2014 r. (art. 214).</p>
+<p>Wyrok TK z 29 września 2015 r., <strong>sygn. K 14/⁠14</strong> (Dz.U. 2015 poz. 1553), na wniosek Ogólnopolskiego Związku Zawodowego Techników Medycznych Elektroradiologii, uznał art. 93 ust. 1 i art. 94 ust. 1 za zgodne z Konstytucją.</p></th>
 <th><p>Grafik układasz w ramach normy i okresu rozliczeniowego z regulaminu pracy. To inna norma niż ogólna z Kodeksu pracy (rozdz. 4.1).</p>
 <p>Korzystniejsze zasady może przewidywać regulamin pracy lub układ zbiorowy. Sprawdź.</p>
 <p>Dyżury medyczne mają odrębne zasady (art. 95 i nast. ustawy). Ustal z kadrami, kogo dotyczą w Twoim zespole.</p></th>
@@ -1217,7 +1217,7 @@ W tej części większość przykładów pochodzi z jednej sytuacji. Dzięki tem
 <tr>
 <th>Prawa pacjenta i dane medyczne</th>
 <th>Ustawa o prawach pacjenta i Rzeczniku Praw Pacjenta; RODO. Dane o zdrowiu to dane szczególnych kategorii (art. 9 RODO).</th>
-<th>Inspektor Ochrony Danych: uprawnienia w systemach (np. RIS/PACS), udostępnianie dokumentacji i obrazów.</th>
+<th>Inspektor Ochrony Danych: uprawnienia w systemach (np. RIS/⁠PACS), udostępnianie dokumentacji i obrazów.</th>
 </tr>
 <tr>
 <th>Kolejność udzielania świadczeń</th>
@@ -1253,20 +1253,17 @@ Wszystkie zasady z rozdz. 5 obowiązują także w szpitalu. Dodatkowo: brak wpis
 
 ### M3.1. Grafik z dyżurami i kompetencjami na zmianie
 
-Zasady z rozdz. 7.1 w szpitalu nabierają wagi bezpieczeństwa: na każdej zmianie musi być ktoś, kto samodzielnie obsłuży każdą pracownię, która w tym czasie działa.
+Zasady z rozdz. 7.1 w szpitalu nabierają wagi bezpieczeństwa: na każdej zmianie musi być ktoś, kto samodzielnie obsłuży każdą pracownię, która w tym czasie działa. Termin zgłaszania preferencji, kolejność pierwszeństwa i przejrzystość nadgodzin stosujesz tak jak w rozdz. 7.1, a w szpitalu także wobec dyżurów. Poniżej to, co w ZDO wygląda inaczej.
 
-| **Zasada**                          | **Przykład wdrożenia w ZDO**                                                                                                                                |
-|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Stały termin zgłaszania preferencji | Prośby o wolne do 15. dnia poprzedniego miesiąca. Po tym terminie tylko zamiany.                                                                            |
-| Jasna kolejność pierwszeństwa       | Urlop z planu rocznego \> zdarzenie losowe \> preferencja. Święta rotacyjnie, zapisywane rok do roku.                                                       |
-| Zamiany bez Twojego udziału         | Pracownicy zamieniają się sami, pod warunkiem zachowania kompetencji na zmianie (np. ktoś z uprawnieniami do MR) i zgłoszenia zamiany przed jej realizacją. |
-| Kompetencje na każdej zmianie       | Grafik układasz z matrycą kompetencji obok (M3.2), nie z pamięci.                                                                                           |
-| Przejrzystość nadgodzin i dyżurów   | Raz na kwartał pokazujesz zespołowi zestawienie nadgodzin i dyżurów (bez danych wrażliwych).                                                                |
-| Norma czasu pracy                   | 7 godz. 35 min na dobę, przeciętnie 37 godz. 55 min tygodniowo (M2.1), w okresie rozliczeniowym z regulaminu pracy.                                         |
+| **Zasada**                    | **Przykład wdrożenia w ZDO**                                                                                                                                |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Zamiany bez Twojego udziału   | Pracownicy zamieniają się sami, pod warunkiem zachowania kompetencji na zmianie (np. ktoś z uprawnieniami do MR) i zgłoszenia zamiany przed jej realizacją. |
+| Kompetencje na każdej zmianie | Grafik układasz z matrycą kompetencji obok (M3.2), nie z pamięci.                                                                                           |
+| Norma czasu pracy             | 7 godz. 35 min na dobę, przeciętnie 37 godz. 55 min tygodniowo (M2.1), w okresie rozliczeniowym z regulaminu pracy.                                         |
 
 ### M3.2. Matryca kompetencji dla zakładu diagnostyki obrazowej
 
-Do podręcznika dołączony jest arkusz **Matryca_kompetencji_ZDO.xlsx**. To gotowe narzędzie zbudowane według zasad z rozdz. 14.5:
+Do przewodnika dołączony jest arkusz **Matryca_kompetencji_ZDO.xlsx**. To gotowe narzędzie zbudowane według zasad z rozdz. 14.5:
 
 - **Arkusz „Matryca kompetencji”:** 24 wiersze (zastępczyni i 23 pracowników) oraz wiersz przykładowy. 17 obszarów: RTG klasyczne, RTG przyłóżkowe, ramię C i blok operacyjny, fluoroskopia, TK podstawowe, TK z kontrastem i angio-TK, TK dziecięce, MR podstawowe, MR zaawansowane, mammografia, densytometria, angiografia i pracownia hybrydowa, kontrast i postępowanie w reakcji, RIS/PACS, testy podstawowe aparatury, ochrona radiologiczna, wdrażanie nowych osób.
 
@@ -1286,7 +1283,7 @@ Przykładowy fragment:
 | …                          |         |        |        |                 |                                      |                      |
 | Liczba osób na poziomie ≥2 | 22      | 16     | 9      | 5               | 3 ⚠                                  | 6                    |
 
-Matryca pokazuje, gdzie zakład jest „jedną osobą od paraliżu”: tu tylko trzy osoby samodzielnie wykonują badania angiograficzne. Punkty edukacyjne (M2.1) warto dopisać w kolumnie uwag szkoleniowych.
+Matryca pokazuje, gdzie zakład jest blisko paraliżu: tu tylko trzy osoby samodzielnie wykonują badania angiograficzne, więc jedna nieobecność i robi się groźnie. Punkty edukacyjne (M2.1) warto dopisać w kolumnie uwag szkoleniowych.
 
 ### M3.3. Struktura zakładu 24-osobowego
 
@@ -1298,34 +1295,31 @@ Matryca pokazuje, gdzie zakład jest „jedną osobą od paraliżu”: tu tylko 
 
 #### Podział obowiązków w tandemie: wersja dla ZDO
 
-| **Obszar**                                             | **Kierownik/kierowniczka**     | **Zastępczyni**                 | **Wspólnie**             |
-|--------------------------------------------------------|--------------------------------|---------------------------------|--------------------------|
-| Kontakt z dyrekcją, budżet, strategia zakładu          | ✔                              |                                 |                          |
-| Grafik i obsada zmian                                  |                                | ✔ (przygotowuje)                | Ostateczna akceptacja    |
-| Szkolenia, matryca kompetencji, wdrażanie nowych       |                                | ✔                               |                          |
-| Ochrona radiologiczna, kontrola jakości, kontakt z IOR | ✔                              |                                 |                          |
-| Rozmowy 1:1                                            | ✔ (połowa zespołu lub wszyscy) | ✔ (druga połowa, opcjonalnie)   | Ustalenia omawiane razem |
-| Trudne rozmowy dyscyplinujące                          | ✔                              |                                 | Przygotowanie            |
-| Rekrutacja                                             |                                |                                 | ✔                        |
-| Zastępstwo podczas nieobecności                        |                                | ✔ (pełne, w ustalonym zakresie) |                          |
+| **Obszar**                                             | **Kierownik/⁠kierowniczka**     | **Zastępczyni**               | **Wspólnie**             |
+|--------------------------------------------------------|--------------------------------|-------------------------------|--------------------------|
+| Kontakt z dyrekcją, budżet, strategia zakładu          | ✔                              |                               |                          |
+| Grafik i obsada zmian                                  |                                | ✔ (przygotowuje)              | Ostateczna akceptacja    |
+| Szkolenia, matryca kompetencji, wdrażanie nowych       |                                | ✔                             |                          |
+| Ochrona radiologiczna, kontrola jakości, kontakt z IOR | ✔                              |                               |                          |
+| Rozmowy 1:1                                            | ✔ (połowa zespołu lub wszyscy) | ✔ (druga połowa, opcjonalnie) | Ustalenia omawiane razem |
+| Trudne rozmowy dyscyplinujące                          | ✔                              |                               | Przygotowanie            |
+| Rekrutacja                                             |                                |                               | ✔                        |
+| Zastępstwo podczas nieobecności                        |                                | ✔ (w ustalonym zakresie)      |                          |
 
 ### M3.4. Rytm zakładu
 
 | **Częstotliwość** | **Forma**                                           | **Czas**  | **Cel**                                              |
 |-------------------|-----------------------------------------------------|-----------|------------------------------------------------------|
-| Codziennie        | Krótki obchód pracowni, przekazanie zmiany          | 10–15 min | Bieżące problemy, aparatura, obłożenie.              |
+| Codziennie        | Krótki obchód pracowni, przekazanie zmiany          | 10–⁠15 min | Bieżące problemy, aparatura, obłożenie.              |
 | Co tydzień        | Spotkanie z koordynatorami pracowni                 | 30 min    | Obsada, aparatura, problemy, decyzje.                |
 | Co tydzień        | Odprawa zespołu na stojąco, w 2 terminach dla zmian | 15 min    | Informacje z góry, sprawy organizacyjne, docenienia. |
 | Co 2 tygodnie     | 1:1 z każdym koordynatorem                          | 30 min    | Wsparcie liderów, delegowane zadania, rozwój.        |
-| Co 2–3 miesiące   | 1:1 z każdym pracownikiem                           | 20–30 min | Rozwój, samopoczucie, przeszkody.                    |
+| Co 2–⁠3 miesiące   | 1:1 z każdym pracownikiem                           | 20–⁠30 min | Rozwój, samopoczucie, przeszkody.                    |
 | Co kwartał        | Przegląd z dyrekcją i dane zakładu                  | 60 min    | Wskaźniki, potrzeby, plan.                           |
 
 Przy 24 osobach comiesięczne 1:1 ze wszystkimi to 10–12 godzin miesięcznie. Dlatego rytm łączy częste rozmowy z koordynatorami z rzadszymi, ale regularnymi rozmowami z każdym pracownikiem. Arkusz „Uwagi” w matrycy przypomina o zaległych rozmowach (domyślny cykl: 75 dni).
 
-<aside class="callout">
-<p><strong>Pułapka „równoległych zespołów” w szpitalu</strong></p>
-<p>W zakładzie z kilkoma pracowniami łatwo o podziały: „ludzie z MR” kontra „ludzie z RTG”, zmiana dzienna kontra nocna. Rotacje szkoleniowe między pracowniami, wspólne odprawy i jednakowe zasady grafiku chronią przed tym, by zakład stał się federacją małych królestw.</p>
-</aside>
+Pułapka „równoległych zespołów” (rozdz. 7.5) w zakładzie przybiera postać podziału „ludzie z MR” kontra „ludzie z RTG”. Najlepiej działają na nią rotacje szkoleniowe między pracowniami.
 
 ## M4. Bezpieczeństwo pacjenta
 
@@ -1385,15 +1379,15 @@ Model SBI w szpitalu: *„Wczoraj na nocnej zmianie, przy pacjencie z SOR-u, bad
 
 ### M5.2. Mapa interesariuszy szpitala
 
-| **Interesariusz**                                                             | **Czego zwykle potrzebuje**                                           | **Co Ty od niego potrzebujesz**                                                     |
-|-------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| Bezpośredni przełożony (np. zastępca dyrektora ds. medycznych)                | Przewidywalności, braku niespodzianek, danych o działalności komórki. | Jasnego mandatu, wsparcia w trudnych decyzjach, regularnego kontaktu.               |
-| Lekarze (w ZDO: radiolodzy, w tym lekarz nadzorujący stronę medyczną zakładu) | Badań dobrej jakości, wykonanych zgodnie z protokołem, na czas.       | Szacunku dla kompetencji zespołu, jasnych protokołów, informacji zwrotnej.          |
-| Inspektor Ochrony Radiologicznej, fizyk medyczny                              | Przestrzegania procedur, dokumentacji, zgłaszania nieprawidłowości.   | Wsparcia w szkoleniach i interpretacji przepisów.                                   |
-| SOR i oddziały zlecające                                                      | Szybkości, elastyczności, kontaktu.                                   | Poprawnie wypełnionych skierowań, przygotowanych pacjentów, rozsądnych priorytetów. |
-| Dział aparatury medycznej, serwis                                             | Rzetelnych zgłoszeń usterek.                                          | Szybkiej reakcji, informacji o terminach.                                           |
-| Pełnomocnik ds. jakości                                                       | Zgłoszeń zdarzeń, udziału w akredytacji.                              | Informacji zwrotnej po zgłoszeniach.                                                |
-| Organizacje związkowe (zwykle kilka, w tym zawodowe)                          | Wczesnej informacji, konsultacji zmian, równego traktowania członków. | Partnerskiej rozmowy zamiast konfliktu (M6).                                        |
+| **Interesariusz**                                                           | **Czego zwykle potrzebuje**                                           | **Co Ty od niego potrzebujesz**                                                     |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Bezpośredni przełożony (np. zastępca dyrektora ds. medycznych)              | Przewidywalności, braku niespodzianek, danych o działalności komórki. | Jasnego mandatu, wsparcia w trudnych decyzjach, regularnego kontaktu.               |
+| Lekarze (w ZDO: radiolodzy, w tym lekarz kierujący stroną medyczną zakładu) | Badań dobrej jakości, wykonanych zgodnie z protokołem, na czas.       | Szacunku dla kompetencji zespołu, jasnych protokołów, informacji zwrotnej.          |
+| Inspektor Ochrony Radiologicznej, fizyk medyczny                            | Przestrzegania procedur, dokumentacji, zgłaszania nieprawidłowości.   | Wsparcia w szkoleniach i interpretacji przepisów.                                   |
+| SOR i oddziały zlecające                                                    | Szybkości, elastyczności, kontaktu.                                   | Poprawnie wypełnionych skierowań, przygotowanych pacjentów, rozsądnych priorytetów. |
+| Dział aparatury medycznej, serwis                                           | Rzetelnych zgłoszeń usterek.                                          | Szybkiej reakcji, informacji o terminach.                                           |
+| Pełnomocnik ds. jakości                                                     | Zgłoszeń zdarzeń, udziału w akredytacji.                              | Informacji zwrotnej po zgłoszeniach.                                                |
+| Organizacje związkowe (zwykle kilka, w tym zawodowe)                        | Wczesnej informacji, konsultacji zmian, równego traktowania członków. | Partnerskiej rozmowy zamiast konfliktu (M6).                                        |
 
 ### M5.3. Spotkania otwierające w szpitalu
 
@@ -1408,7 +1402,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th><strong>Co ustalić</strong></th>
 </tr>
 <tr>
-<th>Tydzień 0–2</th>
+<th>Tydzień 0–⁠2</th>
 <th>Bezpośredni przełożony (dyrektor lub jego zastępca ds. medycznych)</th>
 <th><ul>
 <li><p>Oczekiwania i miary sukcesu: kolejki, liczba badań, wykonanie kontraktu z NFZ, nadgodziny, skargi.</p></li>
@@ -1417,7 +1411,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Notatka z ustaleniami, stały termin spotkań.</th>
 </tr>
 <tr>
-<th>Tydzień 0–2</th>
+<th>Tydzień 0–⁠2</th>
 <th>Kadry i płace</th>
 <th><ul>
 <li><p>Wpisy zespołu do Centralnego Rejestru.</p></li>
@@ -1428,7 +1422,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Kalendarz terminów kadrowych.</th>
 </tr>
 <tr>
-<th>Tydzień 0–2</th>
+<th>Tydzień 0–⁠2</th>
 <th>Inspektor Ochrony Radiologicznej i fizyk medyczny</th>
 <th><ul>
 <li><p>Zezwolenia i dokumentacja z Prawa atomowego; Twoja rola w systemie ochrony radiologicznej.</p></li>
@@ -1439,18 +1433,18 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Kalendarz testów i audytów, sposób zgłaszania nieprawidłowości.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>Lekarz kierujący stroną medyczną zakładu i radiolodzy</th>
 <th><ul>
 <li><p>Protokoły badań: aktualne, spisane, dostępne przy aparatach.</p></li>
-<li><p>Jakość obrazów, powtórzenia badań, typowe uwagi do techników i jak je przekazywać (przez Ciebie, rzeczowo, bez upokarzania).</p></li>
+<li><p>Jakość obrazów, powtórzenia badań, typowe uwagi do elektroradiologów i jak je przekazywać (przez Ciebie, rzeczowo, bez upokarzania).</p></li>
 <li><p>Badania z kontrastem: kwalifikacja, obecność lekarza, postępowanie w reakcji.</p></li>
 <li><p>Priorytety badań pilnych, nowe techniki, wspólne szkolenia.</p></li>
 </ul></th>
 <th>Kanał komunikacji (np. krótka cotygodniowa rozmowa), zasady zgłaszania problemów w obie strony.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>SOR</th>
 <th><ul>
 <li><p>Ścieżki pilne (np. udar, uraz wielonarządowy) i oczekiwane czasy.</p></li>
@@ -1460,7 +1454,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Osoby kontaktowe, przegląd współpracy co kwartał.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>Pielęgniarki oddziałowe, kierownicy oddziałów, blok operacyjny</th>
 <th><ul>
 <li><p>Jakość skierowań i przygotowanie pacjentów.</p></li>
@@ -1471,7 +1465,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Spisane zasady zamawiania badań przyłóżkowych i obsady bloku.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>Dział aparatury medycznej</th>
 <th><ul>
 <li><p>Wiek i stan aparatów, historia awarii.</p></li>
@@ -1481,7 +1475,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Procedura zgłaszania awarii znana całemu zespołowi.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>Administrator RIS-PACS</th>
 <th><ul>
 <li><p>Nadawanie i odbieranie uprawnień.</p></li>
@@ -1491,7 +1485,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Lista uprawnień zespołu, plan awaryjny.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>Pełnomocnik ds. jakości, zespół ds. zdarzeń niepożądanych</th>
 <th><ul>
 <li><p>Procedura zgłaszania zdarzeń i dane z zakładu.</p></li>
@@ -1500,7 +1494,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Jak zakład będzie dostawał informację zwrotną po zgłoszeniach.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>Zespół kontroli zakażeń (pielęgniarka epidemiologiczna)</th>
 <th><ul>
 <li><p>Dezynfekcja aparatów, cewek, osłon; pacjent zakaźny i w izolacji.</p></li>
@@ -1509,7 +1503,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Aktualne procedury przy aparatach, szkolenie dla zespołu.</th>
 </tr>
 <tr>
-<th>Tydzień 2–6</th>
+<th>Tydzień 2–⁠6</th>
 <th>Służba BHP i lekarz medycyny pracy</th>
 <th><ul>
 <li><p>Badania lekarskie i dopuszczenie do pracy w narażeniu na promieniowanie.</p></li>
@@ -1518,7 +1512,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Terminy szkoleń i badań w kalendarzu zakładu.</th>
 </tr>
 <tr>
-<th>Miesiąc 2–3</th>
+<th>Miesiąc 2–⁠3</th>
 <th>Dział zamówień publicznych, inwestycji</th>
 <th><ul>
 <li><p>Planowane postępowania: aparatura, kontrast, serwis, materiały.</p></li>
@@ -1528,7 +1522,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Kiedy i jak zgłaszać potrzeby zakupowe.</th>
 </tr>
 <tr>
-<th>Miesiąc 2–3</th>
+<th>Miesiąc 2–⁠3</th>
 <th>Dział rozliczeń z NFZ, statystyka</th>
 <th><ul>
 <li><p>Wykonanie kontraktu, listy oczekujących i ich raportowanie.</p></li>
@@ -1537,7 +1531,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Comiesięczny zestaw wskaźników dla zakładu.</th>
 </tr>
 <tr>
-<th>Miesiąc 2–3</th>
+<th>Miesiąc 2–⁠3</th>
 <th>Rzecznik praw pacjenta w szpitalu, dział skarg</th>
 <th><ul>
 <li><p>Skargi dotyczące zakładu z ostatnich lat i ich przyczyny.</p></li>
@@ -1546,7 +1540,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Jak będziesz informowany lub informowana o nowych skargach.</th>
 </tr>
 <tr>
-<th>Miesiąc 2–3</th>
+<th>Miesiąc 2–⁠3</th>
 <th>Rejestracja i sekretariat zakładu</th>
 <th><ul>
 <li><p>Terminarze, listy oczekujących, przesuwanie badań.</p></li>
@@ -1555,7 +1549,7 @@ Uzupełnienie tabeli z rozdz. 10.2 o osoby typowe dla szpitala. Pięć pytań na
 <th>Szybka ścieżka informowania pacjentów przy awariach.</th>
 </tr>
 <tr>
-<th>Miesiąc 2–3</th>
+<th>Miesiąc 2–⁠3</th>
 <th>Mentor lub mentorka spoza zakładu (np. doświadczona pielęgniarka oddziałowa)</th>
 <th>Jak w tym szpitalu „naprawdę” załatwia się sprawy.</th>
 <th>Stałe spotkanie raz w miesiącu.</th>
@@ -1580,11 +1574,6 @@ Zasady ogólne i pięć kroków postępowania: rozdz. 4.4. W publicznym szpitalu
 | Prezenty od pacjentów                                     | Okazjonalny drobiazg bez wartości majątkowej (np. kartka, kwiaty), jeśli dopuszcza to polityka szpitala. | Pieniądze, bony, prezenty o znaczącej wartości lub cokolwiek „w zamian za” szybszy termin czy lepszą obsługę.                                                                                 |
 | „Czy możesz zbadać moją mamę bez kolejki?”                | Wyjaśnić drogę: skierowanie, tryb pilny według decyzji lekarza, lista oczekujących.                      | Omijać kolejkę dla rodziny, znajomych czy współpracowników (art. 20 ustawy o świadczeniach).                                                                                                  |
 
-<aside class="callout">
-<p><strong>Otwarta kwestia</strong></p>
-<p>Do sprawdzenia przed rozesłaniem: czy ustawa o wyrobach medycznych z 2022 r. reguluje prezenty i korzyści od firm dla personelu. Na razie podręcznik się na nią nie powołuje.</p>
-</aside>
-
 ### M6.2. Związki zawodowe w szpitalu
 
 W szpitalach działa zwykle kilka organizacji związkowych, w tym związki poszczególnych zawodów. Mają realny wpływ na sytuację zawodu: to Ogólnopolski Związek Zawodowy Techników Medycznych Elektroradiologii zaskarżył do Trybunału Konstytucyjnego przepisy o czasie pracy (sprawa K 14/14, M2.1).
@@ -1597,26 +1586,21 @@ Zasady ogólne i sytuacja osoby kierującej, która należy do związku: rozdz. 
 
 - **Uzgadnianie zasad czasu pracy i dyżurów.** Tu wiedza z Twojego zakładu jest cenna dla obu stron. Dziel się nią jawnie, ale nie negocjuj po obu stronach stołu.
 
-#### Scenariusz: „Jesteś przecież nasz, załatw nam dodatek”
-
-> **Ty:** *„Rozumiem, czemu o to pytasz, i jestem po tej samej stronie, jeśli chodzi o dobre warunki dla nas wszystkich. Ale kierując zakładem, nie mogę jednocześnie negocjować za związek. Mogę przygotować dla dyrekcji rzetelne dane o obciążeniu zakładu i to zrobię. Rozmowy płacowe prowadzi związek z dyrekcją.”*
+Scenariusz rozmowy „Jesteś przecież nasza/nasz, załatw nam dodatek” z rozdz. 6.4 działa w szpitalu bez zmian. Jedyna różnica: dane o obciążeniu zakładu przygotowujesz dla dyrekcji, a rozmowy płacowe prowadzi związek z dyrekcją.
 
 ## M7. Trudne sytuacje w branży medycznej
 
-Uzupełnienie dwunastu sytuacji uniwersalnych z rozdz. 11.
+Uzupełnienie dwunastu sytuacji uniwersalnych z rozdz. 11. Tamte obowiązują także w szpitalu (np. alkohol w pracy, oferta od konkurencji, opór przed nowym systemem). Tu są tylko sytuacje, w których ochrona zdrowia wymaga innego działania.
 
-| **Sytuacja**                                                                                             | **Typowa pułapka**                                            | **Rekomendowane działanie**                                                                                                                                                   |
-|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Lekarz krzyczy na elektroradiologa przy pacjencie.                                                       | Milczenie („to lekarz”) albo awantura na korytarzu.           | Zabierz pracownika z sytuacji, wesprzyj go. Potem rozmowa z lekarzem w cztery oczy, ewentualnie z przełożonym. Pokaż zespołowi, że za nim stoisz.                             |
-| Ktoś zgłasza się z błędem w ekspozycji.                                                                  | Pierwsza reakcja: „Jak mogłeś?”                               | Podziękuj za zgłoszenie, zabezpiecz pacjenta, uruchom procedurę zdarzenia niepożądanego, powiadom IOR, analizuj system (M4.3).                                                |
-| Masz sygnały, że ktoś przychodzi do pracy pod wpływem alkoholu.                                          | Udawanie, że nic się nie dzieje.                              | To kwestia bezpieczeństwa pacjentów. Postępuj zgodnie z procedurą szpitala, zaangażuj przełożonego i kadry. Działaj natychmiast, z szacunkiem.                                |
-| Doświadczona osoba (20 lat stażu) nie chce uczyć się nowego systemu RIS lub nowego aparatu.              | Odpuszczenie z szacunku albo presja.                          | Zrozum lęk przed utratą statusu eksperta. Daj czas i mentora z zespołu. Jej doświadczenie kliniczne wykorzystaj przy wdrażaniu nowych osób.                                   |
-| Najlepszy pracownik dostaje ofertę z prywatnej pracowni.                                                 | Panika albo obrażenie się.                                    | Rozmowa: co go zatrzymuje, co odpycha? Zrób, co w Twojej mocy (rozwój, np. MR lub angiografia, grafik, zakres zadań). Jeśli odejdzie, rozstańcie się dobrze: rynek jest mały. |
-| Koordynator jednej pracowni podejmuje decyzje sprzeczne z zasadami zakładu.                              | Omijanie koordynatora i rozmowy bezpośrednio z jego zespołem. | Rozmowa 1:1, doprecyzowanie zakresu decyzji. Wzmacniaj jego rolę publicznie, koryguj prywatnie.                                                                               |
-| Związek, do którego należysz, zgłasza zastrzeżenia do wypowiedzenia, które zainicjowano z Twojej strony. | Rozmowy „po koleżeńsku” z zarządem związku poza procedurą.    | Odpowiedź wyłącznie formalną drogą przez kadry. Przeanalizuj zastrzeżenia rzeczowo: czasem mają rację.                                                                        |
-| Oddział naciska na badanie „na już” poza priorytetami.                                                   | Ustępowanie temu, kto głośniej dzwoni.                        | Odwołaj się do spisanych zasad priorytetów uzgodnionych z lekarzem kierującym. W sporze: SBAR do lekarza dyżurnego lub przełożonego.                                          |
-| Pracownik sygnalizuje skrajne zmęczenie po drugim etacie.                                                | „To jego prywatna sprawa.”                                    | Rozmowa o bezpieczeństwie pacjentów i odpoczynku dobowym. Nie układaj grafiku „pod” drugi etat, ale też nie oceniaj wyboru (M6.1).                                            |
-| Ciągnie Cię do aparatu, bo brakuje ludzi.                                                                | „Tylko dziś, tylko jedno badanie.”                            | Raz to wsparcie zespołu. Co tydzień to sygnał, że problem kadrowy trzeba nazwać wobec dyrekcji (rozdz. 10.3, 13).                                                             |
+| **Sytuacja**                                                                                             | **Typowa pułapka**                                         | **Rekomendowane działanie**                                                                                                                                                                                            |
+|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lekarz krzyczy na elektroradiologa przy pacjencie.                                                       | Milczenie („to lekarz”) albo awantura na korytarzu.        | Postępuj jak w rozdz. 11: zabierz pracownika z sytuacji, potem rozmowa w cztery oczy. Hierarchia zawodów nie zmienia tej zasady. Jeśli sytuacja się powtarza, porusz ją z lekarzem kierującym stroną medyczną zakładu. |
+| Ktoś zgłasza się z błędem w ekspozycji.                                                                  | Pierwsza reakcja: „Jak mogłaś/⁠mogłeś?”                     | Podziękuj za zgłoszenie, zabezpiecz pacjenta, uruchom procedurę zdarzenia niepożądanego, powiadom IOR, analizuj system (M4.3).                                                                                         |
+| Koordynator lub koordynatorka pracowni podejmuje decyzje sprzeczne z zasadami zakładu.                   | Omijanie tej osoby i rozmowy bezpośrednio z jej zespołem.  | Rozmowa 1:1, doprecyzowanie zakresu decyzji. Wzmacniaj tę rolę publicznie, koryguj prywatnie.                                                                                                                          |
+| Związek, do którego należysz, zgłasza zastrzeżenia do wypowiedzenia, które zainicjowano z Twojej strony. | Rozmowy „po koleżeńsku” z zarządem związku poza procedurą. | Odpowiedź wyłącznie formalną drogą przez kadry. Przeanalizuj zastrzeżenia rzeczowo: czasem mają rację.                                                                                                                 |
+| Oddział naciska na badanie „na już” poza priorytetami.                                                   | Ustępowanie temu, kto głośniej dzwoni.                     | Odwołaj się do spisanych zasad priorytetów uzgodnionych z lekarzem kierującym. W sporze: SBAR do lekarza dyżurnego lub przełożonego.                                                                                   |
+| Pracownik sygnalizuje skrajne zmęczenie po drugim etacie.                                                | „To jego prywatna sprawa.”                                 | Rozmowa o bezpieczeństwie pacjentów i odpoczynku dobowym. Nie układaj grafiku „pod” drugi etat, ale też nie oceniaj wyboru (M6.1).                                                                                     |
+| Ciągnie Cię do aparatu, bo brakuje ludzi.                                                                | „Tylko dziś, tylko jedno badanie.”                         | Raz to wsparcie zespołu. Co tydzień to sygnał, że problem kadrowy trzeba nazwać wobec dyrekcji (rozdz. 10.3, 13).                                                                                                      |
 
 ## M8. Narzędzia i źródła branżowe
 
@@ -1640,18 +1624,18 @@ Dopisz do listy z rozdz. 14.1:
 
 ### M8.2. Samoocena: pytania branżowe
 
-| **Stwierdzenie**                                                                                          | **Po 30 dniach (1–5)** | **Po 90 dniach (1–5)** |
+| **Stwierdzenie**                                                                                          | **Po 30 dniach (1–⁠5)** | **Po 90 dniach (1–⁠5)** |
 |-----------------------------------------------------------------------------------------------------------|------------------------|------------------------|
 | Znam swoje obowiązki w zakresie ochrony radiologicznej i jakości.                                         |                        |                        |
 | Wiem, kto w zespole ma aktualny wpis do rejestru i ile punktów edukacyjnych brakuje poszczególnym osobom. |                        |                        |
 | Na każdej zmianie mam zapewnione kompetencje do wszystkich czynnych pracowni.                             |                        |                        |
 | Zespół zgłasza zdarzenia niepożądane i dostaje informację zwrotną.                                        |                        |                        |
 | Mam ustalony kanał komunikacji z lekarzami radiologami i SOR-em.                                          |                        |                        |
-| Spotkałam/spotkałem się z osobami z tabeli M5.3.                                                          |                        |                        |
+| Spotkałam/⁠spotkałem się z osobami z tabeli M5.3.                                                          |                        |                        |
 
 ### M8.3. Źródła prawne branży medycznej
 
-*Stan na 4 października 2026 r. Linki do Dziennika Ustaw (eli.gov.pl) kliknij przed rozesłaniem podręcznika. Aktualne brzmienie sprawdzaj też w ISAP.*
+*Stan na 4 października 2026 r. Linki prowadzą do oficjalnego Dziennika Ustaw (eli.gov.pl). Aktualne brzmienie sprawdzaj też w ISAP.*
 
 - Ustawa z 15 kwietnia 2011 r. o działalności leczniczej, tekst jednolity Dz.U. 2026 poz. 156: art. 23, 93, 94, 95, 214. https://eli.gov.pl/eli/DU/2026/156/ogl
 
@@ -1673,10 +1657,6 @@ Dopisz do listy z rozdz. 14.1:
 
 - Institute for Healthcare Improvement: SBAR Toolkit.
 
-- Edmondson, A. C. (2018). The Fearless Organization. Wiley (badania zespołów szpitalnych).
-
-- Dekker, S. (2016). Just Culture. CRC Press.
-
 ## Załączniki
 
 *Szablon do pisania kolejnych części branżowych*
@@ -1693,7 +1673,7 @@ Każda kolejna część branżowa ma ten sam układ ośmiu rozdziałów. Litera 
 | X4           | Bezpieczeństwo i jakość               | Jakie błędy są typowe i jakie mają skutki? Kto i jak je zgłasza? Normy jakości, BHP, bezpieczeństwo klienta lub danych.                                                               | 9                      |
 | X5           | Interesariusze i komunikacja          | Z kim w tej branży trzeba się spotkać w pierwszych tygodniach? Przykłady SBI i SBAR z realiów branży.                                                                                 | 8, 10                  |
 | X6           | Konflikt interesów i związki zawodowe | Typowe konflikty interesów, prezenty, kontakty z kontrahentami. Jakie związki działają w branży?                                                                                      | 4.4, 4.5, 6            |
-| X7           | Trudne sytuacje                       | 8–12 sytuacji typowych dla branży, z pułapką i rekomendowanym działaniem.                                                                                                             | 11                     |
+| X7           | Trudne sytuacje                       | 6–⁠12 sytuacji typowych dla branży, z pułapką i rekomendowanym działaniem.                                                                                                             | 11                     |
 | X8           | Narzędzia i źródła                    | Uzupełnienie checklisty pierwszego tygodnia, pytania do samooceny, źródła prawne z numerami Dz.U., lektury.                                                                           | 14, 15                 |
 
 <aside class="callout">
