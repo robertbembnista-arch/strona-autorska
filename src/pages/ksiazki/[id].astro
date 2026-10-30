@@ -17,6 +17,7 @@ const { Content } = await render(entry);
   section={{ href: '/ksiazki/', label: 'Książki' }}
 >
   {entry.data.image && <SectionImage file={entry.data.image} alt={entry.data.imageAlt} />}
+  {entry.data.subtitle && <p class="series">{entry.data.subtitle}</p>}
   <p class="meta">{entry.data.status}</p>
   <Content />
   <div class="notice">

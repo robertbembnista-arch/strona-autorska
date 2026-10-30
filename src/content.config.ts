@@ -34,6 +34,7 @@ const ksiazki = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/ksiazki' }),
   schema: z.object({
     title: z.string(),
+    subtitle: z.string().optional(),
     description: z.string(),
     status: z.string(),
     image: z.string().optional(),

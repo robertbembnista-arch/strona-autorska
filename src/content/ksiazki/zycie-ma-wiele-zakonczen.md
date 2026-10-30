@@ -1,7 +1,8 @@
 ---
-title: "Tranzyty"
+title: "Życie ma wiele zakończeń"
+subtitle: "O utracie, zmianie i odnajdywaniu siebie na nowo"
 description: "Książka o progach, przez które przechodzi każdy z nas: utracie pracy, rozwodzie, emeryturze, diagnozie i śmierci bliskich. Pokazuje, czym zmiana różni się od przejścia, i proponuje proste ćwiczenia na czas „pomiędzy”."
-status: "Książka przed wydaniem. Poniżej dwa fragmenty: Otwarcie i Rozdział 1."
+status: "Książka przed wydaniem. Poniżej trzy fragmenty: Prolog, Otwarcie i Rozdział 1."
 order: 1
 image: "hustawka"
 imageAlt: "Drewniana huśtawka stojąca w płytkiej wodzie przy piaszczystej plaży"
@@ -10,6 +11,70 @@ imageAlt: "Drewniana huśtawka stojąca w płytkiej wodzie przy piaszczystej pla
 > *„Kto by nauczył ludzi umierać, nauczyłby ich żyć.”*
 >
 > Michel de Montaigne, *Próby*, ks. I, rozdz. XIX, przeł. Tadeusz Boy-Żeleński
+
+## Prolog
+
+### Gwiazda poranna
+
+16 marca 1940 roku Joan Miró kończy obraz, któremu nadaje tytuł *Gwiazda poranna*.
+
+Mieszka wtedy z rodziną w Varengeville-sur-Mer, niewielkiej miejscowości na wybrzeżu Normandii. Przyjechał tu z Paryża kilka miesięcy wcześniej. Wojna domowa w Hiszpanii już wcześniej zmusiła go do opuszczenia ojczyzny. Teraz Europa znów pogrąża się w wojnie. Malarz szuka miejsca, w którym będzie mógł pracować.
+
+W Varengeville znajduje względny spokój. Wraca do malowania, słucha muzyki, przygląda się nocnemu niebu. Gwiazdy zaczynają pojawiać się w jego obrazach coraz częściej. Nie są jednak zwykłymi punktami światła. Towarzyszą im linie, oczy, ptaki, nieznane stworzenia i znaki, których znaczenia nie da się sprowadzić do jednego wyjaśnienia.
+
+*Gwiazda poranna* należy do cyklu, który później otrzyma nazwę *Konstelacje*.
+
+Obraz jest niewielki. Można by go objąć wzrokiem jednym spojrzeniem, a jednak trudno zobaczyć wszystko naraz. Poszczególne formy przyciągają uwagę, odsyłają do innych, łączą się i rozchodzą. Niektóre wydają się znajome, inne pozostają zagadką. W tej pozornej swobodzie zaczynamy dostrzegać pewien porządek.
+
+Nie musimy rozumieć każdego znaku, aby poczuć, że nie znalazł się tam przypadkiem.
+
+Dwa miesiące później niemieckie wojska rozpoczynają ofensywę na zachodzie Europy.
+
+Miró z rodziną musi ponownie opuścić miejsce, w którym próbował odzyskać spokój.
+
+Kolejny wyjazd. Kolejne pożegnanie. Kolejny koniec czegoś, co dopiero zaczęło nabierać trwałego kształtu.
+
+Nie wiemy, czy malując *Gwiazdę poranną*, Miró myślał o swoim życiu w takich kategoriach. Nie wiemy też, co dokładnie oznaczały dla niego poszczególne znaki.
+
+Wiemy natomiast, że powstawały w czasie wielkiej niepewności, kiedy jego własny los zależał od wydarzeń, nad którymi nie miał kontroli.
+
+Jest w tej historii coś, co wykracza poza biografię artysty.
+
+Człowiek może utracić miejsce, do którego przywykł, zanim zdąży znaleźć następne.
+
+Może przestać pełnić rolę, z którą przez lata się utożsamiał, choć sam nadal czuje się tą samą osobą. Może wiedzieć, że coś się skończyło, a jednocześnie nie potrafić powiedzieć, co właściwie zaczęło się w zamian.
+
+Tak dzieje się po utracie pracy. Po rozstaniu. W pierwszych miesiącach emerytury. Po diagnozie, która zmienia sposób myślenia o przyszłości. Czasem po wydarzeniu, które dla innych wydaje się niewielkie, a dla nas oznacza koniec świata, jaki znaliśmy.
+
+Nie zawsze umiemy opowiedzieć o tym, co się wtedy z nami dzieje.
+
+Mówimy, że jesteśmy zagubieni. Że nie możemy się pozbierać. Że powinniśmy już iść dalej. Szukamy początku nowego życia, choć nie zdążyliśmy jeszcze zrozumieć zakończenia poprzedniego.
+
+A przecież ludzkość od dawna zna takie doświadczenia.
+
+Antropolodzy opisują je jako przejścia. W wielu kulturach towarzyszą im obrzędy, które pomagają człowiekowi opuścić dawną rolę, przetrwać czas zawieszenia i znaleźć miejsce w nowym porządku. Arnold van Gennep rozpoznał w tych obrzędach powtarzającą się strukturę: oddzielenie, okres przejściowy i ponowne włączenie.
+
+Współczesny człowiek nie zawsze ma do dyspozycji podobne rytuały. Zdarza się, że otrzymuje dokument potwierdzający zmianę, lecz nie dostaje czasu ani języka potrzebnego, by ją przeżyć.
+
+Formalnie wszystko jest już zakończone. Wewnątrz — trwa nadal.
+
+Być może właśnie dlatego tak wiele życiowych przełomów jest trudniejszych, niż spodziewaliśmy się na początku. Zmienia się nasza sytuacja, ale dawne przyzwyczajenia, więzi, oczekiwania i wyobrażenia o sobie nie znikają w tej samej chwili.
+
+Ta książka nie obiecuje, że każda strata prowadzi do czegoś lepszego. Nie każda prowadzi. Nie każde zakończenie przynosi ulgę. Nie wszystkie doświadczenia dają się uporządkować w opowieść, której sens staje się z czasem oczywisty.
+
+Możemy jednak próbować je rozpoznać.
+
+Możemy odkryć, że stan, który wydawał nam się wyłącznie osobistym zagubieniem, jest również jednym z podstawowych ludzkich doświadczeń. Że ma swoją historię, swoje nazwy, swoje miejsce w kulturze. Że inni przechodzili przez podobne progi na długo przed nami.
+
+Miró nie namalował mapy ludzkich kryzysów. Nie taki był cel jego obrazu. Ale jego *Gwiazda poranna* przypomina mi o czymś, co chciałbym zachować podczas naszej wspólnej podróży przez tę książkę: nie zawsze trzeba zobaczyć całą drogę, aby zacząć rozpoznawać jej znaki.
+
+Życie ma wiele zakończeń.
+
+Niektóre wybieramy. Inne przychodzą bez zaproszenia. Są takie, które rozpoznajemy dopiero po latach. I takie, których znaczenia nigdy nie uda nam się do końca wyjaśnić.
+
+A jednak pomiędzy nimi nadal żyjemy.
+
+I właśnie temu życiu przyjrzymy się z bliska.
 
 ## Otwarcie
 
