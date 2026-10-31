@@ -12,7 +12,7 @@ const items = (await getCollection('eseje', ({ data }) => !data.draft))
   <div class="wrap">
     <h1>Eseje</h1>
     <p class="lead">Dłuższe teksty o przyszłości, technologii i kompetencjach.</p>
-    <SectionImage compact file="maroko-wydmy" alt="Wydmy pod niebem z pierzastymi chmurami, na piasku ślady kół" />
+    <SectionImage file="maroko-wydmy" alt="Wydmy pod niebem z pierzastymi chmurami, na piasku ślady kół" />
     <TextList items={items} numbered />
   </div>
 </Base>
