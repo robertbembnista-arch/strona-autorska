@@ -9,7 +9,7 @@ const items = (await getCollection('poradniki', ({ data }) => !data.draft))
   .map((e) => ({ href: `/poradniki/${e.id}/`, title: e.data.title, description: e.data.description }));
 ---
 <Base title="Poradniki" description="Praktyczne teksty dla menedżerów i kierowników zespołów.">
-  <div class="wrap">
+  <div class="narrow">
     <h1>Poradniki</h1>
     <p class="lead">Praktyczne teksty dla menedżerów i kierowników zespołów.</p>
     <SectionImage file="maroko-lodzie" alt="Drewniane łodzie rybackie na nabrzeżu portu, pod światło" />

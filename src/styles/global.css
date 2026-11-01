@@ -195,7 +195,7 @@ h1 { font-weight: 800; line-height: 1.1; }
 }
 
 /* Zdjęcia autora: jedyne kolorowe na stronie */
-.portrait { display: block; width: 22rem; max-width: 100%; height: auto; border-radius: 6px; margin: 0 0 1.5rem; }
+.portrait { display: block; width: 14rem; max-width: 100%; height: auto; border-radius: 6px; margin: 0 0 1.5rem; }
 
 /* Ramka zapisu do Substacka pod esejami */
 .substack { margin: 3rem 0 1rem; }
@@ -209,3 +209,4 @@ h1 { font-weight: 800; line-height: 1.1; }
 .book-card { display: flow-root; }
 .book-card .cover { float: left; width: 7rem; margin: 0.3rem 1.25rem 0.5rem 0; }
 @media (min-width: 40rem) { .book-card .cover { width: 9rem; margin-right: 1.75rem; } }
+.portrait-side { float: right; width: 15rem; max-width: 45%; margin: 0.3rem 0 1rem 1.5rem; }

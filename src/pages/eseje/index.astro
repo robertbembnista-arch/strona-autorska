@@ -9,7 +9,7 @@ const items = (await getCollection('eseje', ({ data }) => !data.draft))
   .map((e) => ({ href: `/eseje/${e.id}/`, title: e.data.title, description: e.data.description }));
 ---
 <Base title="Eseje" description="Dłuższe teksty o przyszłości, technologii i kompetencjach.">
-  <div class="wrap">
+  <div class="narrow">
     <h1>Eseje</h1>
     <p class="lead">Dłuższe teksty o przyszłości, technologii i kompetencjach.</p>
     <SectionImage file="maroko-wydmy" alt="Wydmy pod niebem z pierzastymi chmurami, na piasku ślady kół" />
