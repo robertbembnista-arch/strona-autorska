@@ -14,7 +14,7 @@ const { Content } = await render(entry);
 // TERAZ pozwala zbudować podgląd na wybraną datę, np. TERAZ=2026-11-05.
 const teraz = process.env.TERAZ ? new Date(process.env.TERAZ) : new Date();
 const z = entry.data.zapowiedz;
-const zapowiedz = z && teraz >= z.od && teraz < z.premiera ? z : undefined;
+const zapowiedz = z && teraz >= z.od && (!z.premiera || teraz < z.premiera) ? z : undefined;
 const fmt = new Intl.DateTimeFormat('pl-PL', { dateStyle: 'long', timeZone: 'Europe/Warsaw' });
 ---
 <Article
@@ -29,9 +29,9 @@ const fmt = new Intl.DateTimeFormat('pl-PL', { dateStyle: 'long', timeZone: 'Eur
     <>
       <p class="series">{zapowiedz.seria}</p>
       <p>{zapowiedz.akapit}</p>
-      <p><em>{zapowiedz.oCzym}</em></p>
+      {zapowiedz.oCzym && <p><em>{zapowiedz.oCzym}</em></p>}
       <aside class="callout">
-        <p>Pełny esej z przypisami ukaże się <strong>{fmt.format(zapowiedz.premiera)}</strong>. Subskrybenci newslettera „Przekomponowanie” dostaną go jako pierwsi, o 7:00 rano.</p>
+        <p>Pełny esej z przypisami ukaże się {zapowiedz.premiera ? <strong>{fmt.format(zapowiedz.premiera)}</strong> : 'wkrótce'}. Subskrybenci newslettera „Przekomponowanie” dostaną go jako pierwsi, o 7:00 rano.</p>
       </aside>
     </>
   ) : (

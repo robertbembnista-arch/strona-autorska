@@ -13,9 +13,9 @@ const tekst = z.object({
   zapowiedz: z.object({
     seria: z.string(),
     od: z.coerce.date(),
-    premiera: z.coerce.date(),
+    premiera: z.coerce.date().optional(),
     akapit: z.string(),
-    oCzym: z.string(),
+    oCzym: z.string().optional(),
   }).optional(),
 });
 
