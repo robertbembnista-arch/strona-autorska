@@ -210,3 +210,4 @@ h1 { font-weight: 800; line-height: 1.1; }
 .book-card .cover { float: left; width: 7rem; margin: 0.3rem 1.25rem 0.5rem 0; }
 @media (min-width: 40rem) { .book-card .cover { width: 9rem; margin-right: 1.75rem; } }
 .portrait-side { float: right; width: 15rem; max-width: 45%; margin: 0.3rem 0 1rem 1.5rem; }
+.book-illustration { display: block; width: 24rem; max-width: 100%; height: auto; margin: 2rem auto; }
